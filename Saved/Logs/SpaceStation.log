@@ -882,3 +882,63 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.09-21.51.20:949][320]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04BF1B326582C36D01_1531011583
 [2023.03.09-21.51.20:949][320]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04BF1B326582C36D01_1534039585
 [2023.03.09-21.51.20:949][320]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04BF1B326582C36D01_1537465586
+[2023.03.09-21.53.59:079][427]Cmd: DELETE
+[2023.03.09-21.53.59:079][427]Cmd: ACTOR DELETE
+[2023.03.09-21.53.59:080][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.09-21.53.59:086][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.09-21.53.59:087][427]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2023.03.09-21.53.59:766][466]Cmd: DELETE
+[2023.03.09-21.53.59:766][466]Cmd: ACTOR DELETE
+[2023.03.09-21.53.59:767][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.09-21.53.59:773][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.03.09-21.53.59:773][466]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2023.03.09-21.54.00:312][497]Cmd: DELETE
+[2023.03.09-21.54.00:312][497]Cmd: ACTOR DELETE
+[2023.03.09-21.54.00:313][497]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.09-21.54.00:318][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.03.09-21.54.00:319][497]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2023.03.09-21.54.00:823][526]Cmd: DELETE
+[2023.03.09-21.54.00:823][526]Cmd: ACTOR DELETE
+[2023.03.09-21.54.00:824][526]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.09-21.54.00:830][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.03.09-21.54.00:830][526]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2023.03.09-21.54.04:503][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Level/Space_Station" FILE="D:/Level Design/SpaceStation/Content/FirstPerson/Level/Space_Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.09-21.54.04:509][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.09-21.54.04:510][742]LogSavePackage: Moving output files for package: /Game/FirstPerson/Level/Space_Station
+[2023.03.09-21.54.04:511][742]LogSavePackage: Moving 'D:/Level Design/SpaceStation/Saved/Space_Station03716D0F40A8E86A82BD90BBDC918BC2.tmp' to 'D:/Level Design/SpaceStation/Content/FirstPerson/Level/Space_Station.umap'
+[2023.03.09-21.54.04:514][742]LogFileHelpers: Saving map 'Space_Station' took 0.010
+[2023.03.09-21.54.04:522][742]AssetCheck: New page: Asset Save: Space_Station
+[2023.03.09-21.54.04:522][742]LogContentValidation: Display: Validating World /Game/FirstPerson/Level/Space_Station.Space_Station
+[2023.03.09-21.54.05:435][797]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04BF1B326582C36D01_1531940584 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/K3/D8VDAE31OEP25AL99DG8CX.PackageMetaData in its package
+[2023.03.09-21.54.05:435][797]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04BF1B326582C36D01_1531011583 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/WL/P3SE4L4R61JG1USDFDO0QG.PackageMetaData in its package
+[2023.03.09-21.54.05:435][797]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04BF1B326582C36D01_1534039585 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/HA/M0NE32TU02YXL6EXGV1NL8.PackageMetaData in its package
+[2023.03.09-21.54.05:435][797]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04BF1B326582C36D01_1537465586 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/QY/0H4ZKB171ORE6SNNRLNE5Q.PackageMetaData in its package
+[2023.03.09-21.54.05:436][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.09-21.54.06:881][797]LogSlate: Window 'Save Content' being destroyed
+[2023.03.09-21.54.06:986][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.03.09-21.54.06:992][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.03.09-21.54.06:998][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.03.09-21.54.07:006][797]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Level/Space_Station.Space_Station
+[2023.03.09-21.54.07:006][797]Cmd: MAP LOAD FILE="D:/Level Design/SpaceStation/Content/FirstPerson/Level/Space_Station.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.09-21.54.07:006][797]LightingResults: New page: Lighting Build
+[2023.03.09-21.54.07:006][797]LoadErrors: New page: Loading map: Space_Station.umap
+[2023.03.09-21.54.07:007][797]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-21.54.07:007][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-21.54.07:010][797]MapCheck: New page: Map Check
+[2023.03.09-21.54.07:010][797]LightingResults: New page: Lighting Build
+[2023.03.09-21.54.07:015][797]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.09-21.54.07:017][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.09-21.54.07:018][797]LogWorld: UWorld::CleanupWorld for Space_Station, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-21.54.07:018][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-21.54.07:024][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.09-21.54.07:029][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.09-21.54.07:030][797]LogAudio: Display: Audio Device (ID: 1) registered with world 'Space_Station'.
+[2023.03.09-21.54.07:030][797]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.09-21.54.07:030][797]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-21.54.07:030][797]LogAIModule: Creating AISystem for world Space_Station
+[2023.03.09-21.54.07:032][797]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.09-21.54.07:037][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.09-21.54.07:039][797]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.09-21.54.07:039][797]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.059ms to complete.
+[2023.03.09-21.54.07:039][797]LogFileHelpers: Loading map 'Space_Station' took 0.033
+[2023.03.09-21.54.07:044][797]LogViewport: Scene viewport resized to 1876x815, mode Windowed.
