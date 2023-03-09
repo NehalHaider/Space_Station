@@ -1,0 +1,1574 @@
+﻿Log file open, 03/09/23 15:46:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=32520)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SpaceStation
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:\Level Design\SpaceStation\SpaceStation.uproject" -EpicPortal -epicusername=Naviwanted -epicuserid=7bda0f85d62249f98e45f5441bf6c8f0 -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.1265] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|12th Gen Intel(R) Core(TM) i9-12900H"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="3cf0649046b36f2a5165deaf6a04a18d"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.288039
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-408CF7B1470000433F4DC7B3B38B38F0
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.1265] (), CPU: 12th Gen Intel(R) Core(TM) i9-12900H, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=Naviwanted -epicuserid=7bda0f85d62249f98e45f5441bf6c8f0 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.03.09-21.46.12:589][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.03.09-21.46.12:589][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.03.09-21.46.12:589][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.03.09-21.46.12:589][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.03.09-21.46.12:589][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.03.09-21.46.12:589][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.03.09-21.46.12:589][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.03.09-21.46.12:589][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.03.09-21.46.12:589][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.03.09-21.46.12:589][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.03.09-21.46.12:589][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.03.09-21.46.12:589][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.03.09-21.46.12:589][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.03.09-21.46.12:589][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.03.09-21.46.12:589][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.03.09-21.46.12:589][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.03.09-21.46.12:590][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.03.09-21.46.12:591][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.03.09-21.46.12:591][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.03.09-21.46.12:591][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.03.09-21.46.12:591][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.03.09-21.46.12:591][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.03.09-21.46.12:591][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.03.09-21.46.12:591][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.03.09-21.46.12:591][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.03.09-21.46.12:591][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.03.09-21.46.12:591][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.03.09-21.46.12:591][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.03.09-21.46.12:612][  0]LogD3D12RHI: Aftermath initialized
+[2023.03.09-21.46.12:612][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.03.09-21.46.12:789][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3070 Ti Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2023.03.09-21.46.12:789][  0]LogD3D12RHI: Adapter has 8032MB of dedicated video memory, 0MB of dedicated system memory, and 32610MB of shared system memory, 1 output[s]
+[2023.03.09-21.46.12:847][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) Iris(R) Xe Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2023.03.09-21.46.12:847][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 32610MB of shared system memory, 0 output[s]
+[2023.03.09-21.46.12:863][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.03.09-21.46.12:863][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 32610MB of shared system memory, 0 output[s]
+[2023.03.09-21.46.12:864][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.03.09-21.46.12:864][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.03.09-21.46.12:864][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.03.09-21.46.12:864][  0]LogHAL: Display: Platform has ~ 64 GB [68388900864 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.03.09-21.46.12:864][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.03.09-21.46.12:864][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.03.09-21.46.12:864][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.03.09-21.46.12:865][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.03.09-21.46.12:865][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Level Design/SpaceStation/Saved/Config/WindowsEditor/Editor.ini]
+[2023.03.09-21.46.12:865][  0]LogInit: Computer: NEHAL
+[2023.03.09-21.46.12:865][  0]LogInit: User: nehal
+[2023.03.09-21.46.12:865][  0]LogInit: CPU Page size=4096, Cores=14
+[2023.03.09-21.46.12:865][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.03.09-21.46.12:865][  0]LogMemory: Memory total: Physical=63.7GB (64GB approx)
+[2023.03.09-21.46.12:865][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.03.09-21.46.12:865][  0]LogMemory: Process Physical Memory: 294.71 MB used, 304.48 MB peak
+[2023.03.09-21.46.12:865][  0]LogMemory: Process Virtual Memory: 275.66 MB used, 275.66 MB peak
+[2023.03.09-21.46.12:865][  0]LogMemory: Physical Memory: 19716.51 MB used,  45504.23 MB free, 65220.74 MB total
+[2023.03.09-21.46.12:865][  0]LogMemory: Virtual Memory: 23077.47 MB used,  46495.27 MB free, 69572.73 MB total
+[2023.03.09-21.46.12:865][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.03.09-21.46.12:995][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.03.09-21.46.13:005][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.03.09-21.46.13:005][  0]LogInit: Using OS detected language (en-US).
+[2023.03.09-21.46.13:005][  0]LogInit: Using OS detected locale (en-US).
+[2023.03.09-21.46.13:008][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.03.09-21.46.13:116][  0]LogInit: Setting process to per monitor DPI aware
+[2023.03.09-21.46.13:128][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.03.09-21.46.13:128][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.03.09-21.46.13:128][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2023.03.09-21.46.13:128][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.03.09-21.46.13:138][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.03.09-21.46.13:138][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.03.09-21.46.13:208][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.03.09-21.46.13:212][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.03.09-21.46.13:212][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.03.09-21.46.13:283][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.03.09-21.46.13:283][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.03.09-21.46.13:283][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.03.09-21.46.13:283][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.03.09-21.46.13:283][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.03.09-21.46.13:283][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.03.09-21.46.13:283][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.03.09-21.46.13:283][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.03.09-21.46.13:283][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.03.09-21.46.13:283][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.03.09-21.46.13:283][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.03.09-21.46.13:283][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.03.09-21.46.13:283][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.03.09-21.46.13:283][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.03.09-21.46.13:283][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.03.09-21.46.13:283][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.03.09-21.46.13:320][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.03.09-21.46.13:325][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.03.09-21.46.13:337][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.03.09-21.46.13:356][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.03.09-21.46.13:356][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.03.09-21.46.13:376][  0]LogD3D12RHI:     GPU DeviceId: 0x24e0 (for the marketing name, search the web for "GPU Device Id")
+[2023.03.09-21.46.13:376][  0]LogWindows: Attached monitors:
+[2023.03.09-21.46.13:376][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1020), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.03.09-21.46.13:376][  0]LogWindows: Found 1 attached monitors.
+[2023.03.09-21.46.13:376][  0]LogWindows: EnumDisplayDevices:
+[2023.03.09-21.46.13:376][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.03.09-21.46.13:376][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.03.09-21.46.13:376][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.03.09-21.46.13:377][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.03.09-21.46.13:377][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.03.09-21.46.13:377][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.03.09-21.46.13:377][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.03.09-21.46.13:377][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY8'
+[2023.03.09-21.46.13:377][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.03.09-21.46.13:377][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Ti Laptop GPU
+[2023.03.09-21.46.13:377][  0]LogD3D12RHI:   Driver Version: 531.18 (internal:31.0.15.3118, unified:531.18)
+[2023.03.09-21.46.13:377][  0]LogD3D12RHI:      Driver Date: 2-24-2023
+[2023.03.09-21.46.13:377][  0]LogRHI: Texture pool is 4576 MB (70% of 6537 MB)
+[2023.03.09-21.46.13:377][  0]LogD3D12RHI: Async texture creation enabled
+[2023.03.09-21.46.13:377][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.03.09-21.46.13:387][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.03.09-21.46.13:391][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Level Design/SpaceStation/SpaceStation.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Level Design/SpaceStation/Intermediate/TurnkeyReport_0.log" -log="D:/Level Design/SpaceStation/Intermediate/TurnkeyLog_0.log" -project="D:/Level Design/SpaceStation/SpaceStation.uproject"  -platform=all'
+[2023.03.09-21.46.13:391][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Level Design/SpaceStation/SpaceStation.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Level Design/SpaceStation/Intermediate/TurnkeyReport_0.log" -log="D:/Level Design/SpaceStation/Intermediate/TurnkeyLog_0.log" -project="D:/Level Design/SpaceStation/SpaceStation.uproject"  -platform=all" ]
+[2023.03.09-21.46.13:411][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.03.09-21.46.13:417][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.03.09-21.46.13:417][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.03.09-21.46.13:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.03.09-21.46.13:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.03.09-21.46.13:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.03.09-21.46.13:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.03.09-21.46.13:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.03.09-21.46.13:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.03.09-21.46.13:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.03.09-21.46.13:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.03.09-21.46.13:423][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.03.09-21.46.13:423][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.03.09-21.46.13:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.03.09-21.46.13:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.03.09-21.46.13:444][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.03.09-21.46.13:444][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.03.09-21.46.13:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.03.09-21.46.13:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.03.09-21.46.13:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.03.09-21.46.13:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.03.09-21.46.13:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.03.09-21.46.13:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.03.09-21.46.13:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.03.09-21.46.13:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.03.09-21.46.13:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.03.09-21.46.13:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.03.09-21.46.13:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.03.09-21.46.13:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.03.09-21.46.13:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.03.09-21.46.13:457][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.03.09-21.46.13:463][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.03.09-21.46.13:465][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.03.09-21.46.13:465][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.03.09-21.46.13:465][  0]LogTargetPlatformManager:   ADPCM
+[2023.03.09-21.46.13:465][  0]LogTargetPlatformManager:   PCM
+[2023.03.09-21.46.13:467][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.03.09-21.46.13:467][  0]LogTargetPlatformManager:   BINKA
+[2023.03.09-21.46.13:467][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.03.09-21.46.13:467][  0]LogTargetPlatformManager:   OGG
+[2023.03.09-21.46.13:467][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.03.09-21.46.13:467][  0]LogTargetPlatformManager:   OPUS
+[2023.03.09-21.46.13:530][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.03.09-21.46.13:537][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.03.09-21.46.13:537][  0]LogTargetPlatformManager:   SF_METAL
+[2023.03.09-21.46.13:537][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.03.09-21.46.13:537][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.03.09-21.46.13:537][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.03.09-21.46.13:537][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.03.09-21.46.13:537][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.03.09-21.46.13:537][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.03.09-21.46.13:537][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.03.09-21.46.13:537][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.03.09-21.46.13:537][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.03.09-21.46.13:537][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.03.09-21.46.13:537][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.03.09-21.46.13:537][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.03.09-21.46.13:537][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.03.09-21.46.13:537][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.03.09-21.46.13:539][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.03.09-21.46.13:539][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.03.09-21.46.13:539][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.03.09-21.46.13:539][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.03.09-21.46.13:539][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.03.09-21.46.13:539][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.03.09-21.46.13:539][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.03.09-21.46.13:539][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.03.09-21.46.13:539][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Level Design/SpaceStation/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.03.09-21.46.13:542][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: D:/Level Design/SpaceStation/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.03.09-21.46.13:542][  0]LogShaderCompilers: Display: Shader autogen file written: D:/Level Design/SpaceStation/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.03.09-21.46.13:542][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Level Design/SpaceStation/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.03.09-21.46.13:542][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: D:/Level Design/SpaceStation/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.03.09-21.46.13:542][  0]LogShaderCompilers: Display: Shader autogen file written: D:/Level Design/SpaceStation/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.03.09-21.46.13:545][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Level Design/SpaceStation/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.03.09-21.46.13:545][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.03.09-21.46.13:545][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Level Design/SpaceStation/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.09-21.46.13:545][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.03.09-21.46.13:563][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.03.09-21.46.13:563][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.09-21.46.13:563][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.03.09-21.46.13:571][  0]LogDerivedDataCache: Speed tests for C:/Users/nehal/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.03.09-21.46.13:571][  0]LogDerivedDataCache: Display: Performance to C:/Users/nehal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=362.34MBs, RandomWriteSpeed=214.91MBs. Assigned SpeedClass 'Local'
+[2023.03.09-21.46.13:571][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nehal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.03.09-21.46.13:571][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.03.09-21.46.13:571][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.03.09-21.46.13:577][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.03.09-21.46.13:577][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.03.09-21.46.13:577][  0]LogShaderCompilers: Guid format shader working directory is 17 characters bigger than the processId version (D:/Level Design/SpaceStation/Intermediate/Shaders/WorkingDirectory/26076/).
+[2023.03.09-21.46.13:578][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nehal/AppData/Local/Temp/UnrealShaderWorkingDir/3DAAF9404CC2ACA8A57450BAC7C80897/'.
+[2023.03.09-21.46.13:578][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.03.09-21.46.13:578][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 10 workers.
+[2023.03.09-21.46.14:616][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.03.09-21.46.14:616][  0]LogSlate: Using FreeType 2.10.0
+[2023.03.09-21.46.14:616][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.03.09-21.46.14:648][  0]LogAssetRegistry: FAssetRegistry took 0.0107 seconds to start up
+[2023.03.09-21.46.14:652][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.03.09-21.46.14:794][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.03.09-21.46.14:795][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.03.09-21.46.15:034][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.03.09-21.46.15:034][  0]LogDeviceProfileManager: Active device profile: [00000B50582E71C0][00000B5058550000 50] WindowsEditor
+[2023.03.09-21.46.15:034][  0]LogDeviceProfileManager: Profiles: [00000B50582E6C80][00000B5058555000 50] Windows, [00000B50582E71C0][00000B5058550000 50] WindowsEditor, [00000B50582E4600][00000B5058552800 50] WindowsServer, [00000B50582E5080][00000B504C725000 50] WindowsClient, [00000B50582E3800][00000B505855C800 50] IOS, [00000B50582E7700][00000B504C727800 50] iPadAir2, [00000B50582E55C0][00000B5058565000 50] IPadPro, [00000B50582E2A00][00000B5058560000 50] iPadAir3, [00000B50582E4980][00000B5058562800 50] iPadAir4, [00000B50582E3480][00000B5058557800 50] iPadMini4, [00000B50582E3D40][00000B5058567800 50] iPadMini5, [00000B50582E5400][00000B504C6CA000 50] iPadMini6, [00000B50582EA640][00000B5058535000 50] iPhone6S, [00000B50582EA9C0][00000B5058537800 50] iPhone7, [00000B50582E7FC0][00000B505853A000 50] iPodTouch7, [00000B50582EAB80][00000B505856A000 50] iPhone6SPlus, [00000B50582E8180][00000B505853C800 50] iPhone7Plus, [00000B50582EA800][00000B505855A000 50] iPhoneSE, [00000B50582E3640][00000B504C722800 50] iPhone8, [00000B50582E2D80][00000B5058532800 50] iPhone8Plus, [00000B50582E8F80][00000B5058542800 50] iPhoneX, [00000B50582E7000][00000B5058540000 50] iPhoneXS, [00000B50582E7A80][00000B505854A000 50] iPhoneXSMax, [00000B50582E39C0][00000B5058530000 50] iPhoneXR, [00000B50582E9300][00000B505856C800 50] iPhone11, [00000B50582E32C0][00000B5058547800 50] iPhone11Pro, [00000B50582E4440][00000B5058572800 50] iPhone11ProMax, [00000B50582E6040][00000B5058570000 50] iPhoneSE2, [00000B50582E9F40][00000B505857A000 50] iPhone12Mini, [00000B50582E2300][00000B5058545000 50] iPhone12, [00000B50582E1F80][00000B5058575000 50] iPhone12Pro, [00000B50582E47C0][00000B5058577800 50] iPhone12ProMax, [00000B50582E9840][00000B50585B2800 50] iPhone13Mini, [00000B50582E9680][00000B50585B0000 50] iPhone13, [00000B50582E7C40][00000B50585BA000 50] iPhone13Pro, [00000B50582E8DC0][00000B505857C800 50] iPhone13ProMax, [00000B50582EA2C0][00000B5031A7C800 50] iPadPro105, [00000B50582E6AC0][00000B50585B7800 50] iPadPro129, [00000B50582E7540][00000B50585C2800 50] iPadPro97, [00000B50582E9140][00000B50585C0000 50] iPadPro2_129, [00000B50582E5CC0][00000B50585CA000 50] iPad5, [00000B50582E2F40][00000B50585B5000 50] iPad6, [00000B50582E4B40][00000B50585C5000 50] iPad7, [00000B50582E63C0][00000B50585C7800 50] iPad8, [00000B50582E3F00][00000B50585D2800 50] iPad9, [00000B50582E5240][00000B50585D0000 50] iPadPro11, [00000B50582E4EC0][00000B50585DA000 50] iPadPro2_11, [00000B50582E86C0][00000B50585CC800 50] iPadPro3_11, [00000B50582E2BC0][00000B505854C800 50] iPadPro3_129, [00000B50582E6740][00000B50585D7800 50] iPadPro4_129, [00000B50582E9BC0][00000B50585E2800 50] iPadPro5_129, [00000B50582E4280][00000B50585E0000 50] AppleTV, [00000B50582E2140][00000B50585EA000 50] AppleTV4K, [00000B50582E7380][00000B50585D5000 50] TVOS, [00000B50582EC780][00000B5058605000 50] Mac, [00000B50582ECB00][00000B5058600000 50] MacEditor, [00000B50582E8A40][00000B5058602800 50] MacClient, [00000B50582EA100][00000B50585E5000 50] MacServer, [00000B50582ECE80][00000B5058607800 50] Linux, [00000B50582ED200][00000B505860C800 50] LinuxEditor, [00000B50582EBEC0][00000B505860A000 50] LinuxArm64Editor, [00000B50582E94C0][00000B50585EC800 50] LinuxArm64, [00000B50582E5E80][00000B5058592800 50] LinuxClient, [00000B50582ED580][00000B5058590000 50] LinuxArm64Client, [00000B50582EBD00][00000B505859A000 50] LinuxServer, [00000B50582E7E00][00000B50585E7800 50] LinuxArm64Server, [00000B50582E9A00][00000B50585BC800 50] Android, [00000B50582EC400][00000B5058597800 50] Android_Preview_OpenGL, [00000B50582E6580][00000B5058612800 50] Android_Preview_Vulkan, [00000B50582EC240][00000B5058610000 50] Android_Low, [00000B50582E6200][00000B505861A000 50] Android_Mid, [00000B50582E3100][00000B5058595000 50] Android_High, [00000B50582E8500][00000B5058615000 50] Android_Default, [00000B50582EDAC0][00000B5058617800 50] Android_Adreno4xx, [00000B50582ED040][00000B5058622800 50] Android_Adreno5xx_Low, [00000B50582EB7C0][00000B5058620000 50] Android_Adreno5xx, [00000B50582EB280][00000B505862A000 50] Android_Adreno6xx, [00000B50582E9D80][00000B505861C800 50] Android_Adreno6xx_Vulkan, [00000B50582E40C0][00000B50585DC800 50] Android_Adreno7xx, [00000B50582E6900][00000B5058627800 50] Android_Adreno7xx_Vulkan, [00000B50582EC940][00000B5058642800 50] Android_Mali_T6xx, [00000B50582E8C00][00000B5058640000 50] Android_Mali_T7xx, [00000B50582ED900][00000B505864A000 50] Android_Mali_T8xx, [00000B50582EAF00][00000B5058625000 50] Android_Mali_G71, [00000B50582E4D00][00000B5058645000 50] Android_Mali_G72, [00000B50582E8880][00000B5058647800 50] Android_Mali_G72_Vulkan, [00000B50582EE380][00000B5058652800 50] Android_Mali_G76, [00000B50582E5B00][00000B5058650000 50] Android_Mali_G76_Vulkan, [00000B50582E3B80][00000B505865A000 50] Android_Mali_G77, [00000B50582EA480][00000B505864C800 50] Android_Mali_G77_Vulkan, [00000B50582EE540][00000B505859C800 50] Android_Mali_G78, [00000B50582EB980][00000B5058657800 50] Android_Mali_G78_Vulkan, [00000B50582EE8C0][00000B5058662800 50] Android_Mali_G710, [00000B50582ECCC0][00000B5058660000 50] Android_Mali_G710_Vulkan, [00000B50582EBB40][00000B505866A000 50] Android_Xclipse_920, [00000B50582EF340][00000B5058655000 50] Android_Xclipse_920_Vulkan, [00000B50582EB600][00000B5058665000 50] Android_Vulkan_SM5, [00000B50582EE1C0][00000B5058667800 50] Android_PowerVR_G6xxx, [00000B50582E8340][00000B5058672800 50] Android_PowerVR_GT7xxx, [00000B50582EDC80][00000B5058670000 50] Android_PowerVR_GE8xxx, [00000B50582EE000][00000B505867A000 50] Android_PowerVR_GM9xxx, [00000B50582EF6C0][00000B505866C800 50] Android_PowerVR_GM9xxx_Vulkan, [00000B50582ED740][00000B505862C800 50] Android_TegraK1, [00000B50582EFC00][00000B5058677800 50] Android_Unknown_Vulkan, [00000B50582EF180][00000B5058682800 50] Oculus_Quest, [00000B50585F2140][00000B5058680000 50] Oculus_Quest2, [00000B50585F0540][00000B505868A000 50] HoloLens, 
+[2023.03.09-21.46.15:034][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.03.09-21.46.15:044][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.03.09-21.46.15:168][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.03.09-21.46.15:168][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.03.09-21.46.15:168][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.03.09-21.46.15:168][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.03.09-21.46.15:168][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.03.09-21.46.15:207][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.03.09-21.46.15:207][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.03.09-21.46.15:207][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.03.09-21.46.15:207][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.03.09-21.46.15:207][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.03.09-21.46.15:220][  0]LogNetVersion: SpaceStation 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1428013041)
+[2023.03.09-21.46.15:320][  0]LogSlate: Border
+[2023.03.09-21.46.15:320][  0]LogSlate: BreadcrumbButton
+[2023.03.09-21.46.15:320][  0]LogSlate: Default
+[2023.03.09-21.46.15:320][  0]LogSlate: Icons.Save
+[2023.03.09-21.46.15:320][  0]LogSlate: Icons.Toolbar.Settings
+[2023.03.09-21.46.15:320][  0]LogSlate: ListView
+[2023.03.09-21.46.15:320][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.03.09-21.46.15:320][  0]LogSlate: SoftwareCursor_Grab
+[2023.03.09-21.46.15:320][  0]LogSlate: TableView.DarkRow
+[2023.03.09-21.46.15:320][  0]LogSlate: TableView.Row
+[2023.03.09-21.46.15:320][  0]LogSlate: TreeView
+[2023.03.09-21.46.15:455][  0]SourceControl: Source control is disabled
+[2023.03.09-21.46.15:479][  0]SourceControl: Source control is disabled
+[2023.03.09-21.46.15:479][  0]SourceControl: Source control is disabled
+[2023.03.09-21.46.15:580][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.03.09-21.46.15:580][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.03.09-21.46.15:580][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.09-21.46.15:696][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 494F60F24F84EE1ACCF66BB4CC88D673 | Instance: 725E0CF0465C0782E4CD2EA0D405C972 (NEHAL-26076).
+[2023.03.09-21.46.15:852][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.03.09-21.46.15:859][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.03.09-21.46.15:926][  0]LogPython: Using Python 3.9.7
+[2023.03.09-21.46.16:584][  0]SourceControl: Source control is disabled
+[2023.03.09-21.46.16:588][  0]SourceControl: Source control is disabled
+[2023.03.09-21.46.16:591][  0]SourceControl: Source control is disabled
+[2023.03.09-21.46.16:606][  0]LogUProjectInfo: Found projects:
+[2023.03.09-21.46.16:876][  0]LogOpenImageDenoise: OIDN starting up
+[2023.03.09-21.46.16:886][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.03.09-21.46.16:902][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.09-21.46.16:902][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.09-21.46.16:989][  0]LogCollectionManager: Loaded 0 collections in 0.001466 seconds
+[2023.03.09-21.46.17:053][  0]LogFileCache: Scanning file cache for directory 'D:/Level Design/SpaceStation/Saved/Collections/' took 0.00s
+[2023.03.09-21.46.17:054][  0]LogFileCache: Scanning file cache for directory 'D:/Level Design/SpaceStation/Content/Developers/nehal/Collections/' took 0.00s
+[2023.03.09-21.46.17:054][  0]LogFileCache: Scanning file cache for directory 'D:/Level Design/SpaceStation/Content/Collections/' took 0.00s
+[2023.03.09-21.46.17:289][  0]LogEngine: Initializing Engine...
+[2023.03.09-21.46.17:299][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.03.09-21.46.17:301][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.03.09-21.46.17:507][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.03.09-21.46.17:507][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.09-21.46.17:515][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-21.46.17:536][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.03.09-21.46.17:537][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.03.09-21.46.17:554][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.03.09-21.46.17:555][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.03.09-21.46.17:555][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.03.09-21.46.17:555][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.03.09-21.46.17:555][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.03.09-21.46.17:555][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.09-21.46.17:555][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.09-21.46.17:555][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.09-21.46.17:555][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.09-21.46.17:555][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.09-21.46.17:555][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.09-21.46.17:555][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.09-21.46.17:555][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.09-21.46.17:556][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.09-21.46.17:556][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.09-21.46.17:556][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.09-21.46.17:561][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.09-21.46.17:671][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.09-21.46.17:672][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.09-21.46.17:673][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.09-21.46.17:673][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.09-21.46.17:674][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.03.09-21.46.17:674][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.03.09-21.46.17:675][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.03.09-21.46.17:675][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.03.09-21.46.17:675][  0]LogInit: FAudioDevice initialized.
+[2023.03.09-21.46.17:675][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.09-21.46.17:675][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.03.09-21.46.17:675][  0]LogInit: Texture streaming: Enabled
+[2023.03.09-21.46.17:698][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.03.09-21.46.17:704][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.03.09-21.46.17:729][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.03.09-21.46.17:734][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.03.09-21.46.17:734][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.03.09-21.46.19:707][  0]LogLiveCoding: Display: First instance in process group "UE_SpaceStation_0x71224d5f", spawning console
+[2023.03.09-21.46.19:707][  0]LogLiveCoding: Display: Waiting for server
+[2023.03.09-21.46.19:707][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.03.09-21.46.19:710][  0]LogInit: Transaction tracking system initialized
+[2023.03.09-21.46.19:764][  0]BlueprintLog: New page: Editor Load
+[2023.03.09-21.46.19:911][  0]LocalizationService: Localization service is disabled
+[2023.03.09-21.46.19:944][  0]TimingProfiler: Initialize
+[2023.03.09-21.46.19:944][  0]TimingProfiler: OnSessionChanged
+[2023.03.09-21.46.19:944][  0]LoadingProfiler: Initialize
+[2023.03.09-21.46.19:944][  0]LoadingProfiler: OnSessionChanged
+[2023.03.09-21.46.19:944][  0]NetworkingProfiler: Initialize
+[2023.03.09-21.46.19:944][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.09-21.46.19:944][  0]MemoryProfiler: Initialize
+[2023.03.09-21.46.19:944][  0]MemoryProfiler: OnSessionChanged
+[2023.03.09-21.46.20:391][  0]LogFileCache: Scanning file cache for directory 'D:/Level Design/SpaceStation/Content/' took 0.00s
+[2023.03.09-21.46.20:391][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.03.09-21.46.20:505][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.09-21.46.20:509][  0]SourceControl: Source control is disabled
+[2023.03.09-21.46.20:509][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.866
+[2023.03.09-21.46.20:509][  0]Cmd: MAP LOAD FILE="D:/Level Design/SpaceStation/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.09-21.46.20:509][  0]LightingResults: New page: Lighting Build
+[2023.03.09-21.46.20:514][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-21.46.20:514][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-21.46.20:514][  0]MapCheck: New page: Map Check
+[2023.03.09-21.46.20:514][  0]LightingResults: New page: Lighting Build
+[2023.03.09-21.46.20:519][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.09-21.46.20:522][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.09-21.46.20:648][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.03.09-21.46.20:652][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-21.46.20:653][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.09-21.46.20:653][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.09-21.46.20:653][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.03.09-21.46.20:746][  0]LogWorldPartition: Display: WorldPartition initialize took 93 ms
+[2023.03.09-21.46.20:753][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.09-21.46.20:759][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.03.09-21.46.20:759][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.09-21.46.20:759][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2023.03.09-21.46.20:759][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 0.251
+[2023.03.09-21.46.20:767][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.124
+[2023.03.09-21.46.20:767][  0]LogShaderCompilers: Display: ================================================
+[2023.03.09-21.46.20:767][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.09-21.46.20:767][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.03.09-21.46.20:767][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.03.09-21.46.20:767][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2023.03.09-21.46.20:767][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.09-21.46.20:767][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.03.09-21.46.20:767][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.03.09-21.46.20:767][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.03.09-21.46.20:767][  0]LogShaderCompilers: Display: ================================================
+[2023.03.09-21.46.20:861][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.09-21.46.20:861][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.09-21.46.20:861][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.09-21.46.20:861][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.09-21.46.20:861][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.09-21.46.20:861][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.09-21.46.20:861][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.09-21.46.20:861][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.09-21.46.20:861][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.09-21.46.20:861][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.09-21.46.20:861][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.09-21.46.20:861][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.09-21.46.20:861][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.09-21.46.20:861][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.09-21.46.20:861][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.09-21.46.20:861][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.09-21.46.20:861][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.09-21.46.20:861][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.09-21.46.20:861][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.09-21.46.20:861][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.09-21.46.20:876][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.09-21.46.20:880][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.09-21.46.20:883][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.09-21.46.20:886][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.09-21.46.20:958][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.03.09-21.46.20:958][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.09-21.46.20:958][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.03.09-21.46.20:958][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.09-21.46.20:958][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.03.09-21.46.20:959][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.09-21.46.20:959][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.03.09-21.46.20:959][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.09-21.46.20:959][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.03.09-21.46.20:959][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.09-21.46.20:960][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.03.09-21.46.20:960][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.09-21.46.20:960][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.03.09-21.46.20:960][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.09-21.46.20:960][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.03.09-21.46.20:960][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.09-21.46.20:960][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.03.09-21.46.20:960][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.09-21.46.20:961][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.03.09-21.46.20:961][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.09-21.46.20:961][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.03.09-21.46.21:065][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.09-21.46.21:069][  0]LogSlate: Took 0.000460 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.09-21.46.21:085][  0]LogViewport: Scene viewport resized to 1876x815, mode Windowed.
+[2023.03.09-21.46.21:881][  0]LogStall: Startup...
+[2023.03.09-21.46.21:881][  0]LogStall: Startup complete.
+[2023.03.09-21.46.21:907][  0]LogLoad: (Engine Initialization) Total time: 10.26 seconds
+[2023.03.09-21.46.21:907][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.09-21.46.21:964][  0]LogAssetRegistry: Asset discovery search completed in 7.3180 seconds
+[2023.03.09-21.46.21:968][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.03.09-21.46.21:970][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.03.09-21.46.21:997][  0]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.09-21.46.22:066][  1]LogSlate: Took 0.003732 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.09-21.46.36:402][238]LogSlate: Took 0.004412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.09-21.46.36:405][238]LogSlate: Took 0.000544 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.09-21.46.41:887][538]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.09-21.46.41:891][538]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.09-21.46.41:898][539]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.09-21.46.44:341][685]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2023.03.09-21.46.44:341][685]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.09-21.46.49:843][ 15]LogContentBrowser: Attempting asset rename: NewFolder -> Level
+[2023.03.09-21.46.56:444][396]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.03.09-21.46.56:444][396]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.03.09-21.47.06:181][957]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.03.09-21.47.06:186][957]LogContentBrowser: Creating deferred item: NewWorld
+[2023.03.09-21.47.06:227][959]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.03.09-21.47.15:324][503]LogContentBrowser: Attempting asset rename: NewWorld -> Space_Station
+[2023.03.09-21.47.15:326][503]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-21.47.15:327][503]LogContentBrowser: End creating deferred item NewWorld
+[2023.03.09-21.47.16:852][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.03.09-21.47.17:533][594]LogSlate: Window 'Save Content' being destroyed
+[2023.03.09-21.47.17:621][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Level/Space_Station" FILE="D:/Level Design/SpaceStation/Content/FirstPerson/Level/Space_Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.09-21.47.17:626][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.03.09-21.47.17:629][594]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.002427 seconds
+[2023.03.09-21.47.17:631][594]LogSavePackage: Moving output files for package: /Game/FirstPerson/Level/Space_Station
+[2023.03.09-21.47.17:631][594]LogSavePackage: Moving 'D:/Level Design/SpaceStation/Saved/Space_Station835C9A5845020382F2C782B3E2B5EF2B.tmp' to 'D:/Level Design/SpaceStation/Content/FirstPerson/Level/Space_Station.umap'
+[2023.03.09-21.47.17:634][594]LogFileHelpers: Saving map 'Space_Station' took 0.014
+[2023.03.09-21.47.17:645][594]AssetCheck: New page: Asset Save: Space_Station
+[2023.03.09-21.47.17:646][594]LogContentValidation: Display: Validating World /Game/FirstPerson/Level/Space_Station.Space_Station
+[2023.03.09-21.47.18:359][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.03.09-21.47.18:361][637]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Level/Space_Station.Space_Station
+[2023.03.09-21.47.18:361][637]Cmd: MAP LOAD FILE="D:/Level Design/SpaceStation/Content/FirstPerson/Level/Space_Station.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.09-21.47.18:362][637]LightingResults: New page: Lighting Build
+[2023.03.09-21.47.18:362][637]LoadErrors: New page: Loading map: Space_Station.umap
+[2023.03.09-21.47.18:363][637]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-21.47.18:363][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-21.47.18:364][637]MapCheck: New page: Map Check
+[2023.03.09-21.47.18:364][637]LightingResults: New page: Lighting Build
+[2023.03.09-21.47.18:369][637]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.09-21.47.18:372][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.09-21.47.18:374][637]LogWorld: UWorld::CleanupWorld for Space_Station, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-21.47.18:374][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-21.47.18:379][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.03.09-21.47.18:384][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.09-21.47.18:384][637]LogAudio: Display: Audio Device (ID: 1) registered with world 'Space_Station'.
+[2023.03.09-21.47.18:384][637]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.09-21.47.18:384][637]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-21.47.18:385][637]LogAIModule: Creating AISystem for world Space_Station
+[2023.03.09-21.47.18:385][637]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.09-21.47.18:392][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.09-21.47.18:394][637]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.09-21.47.18:394][637]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.051ms to complete.
+[2023.03.09-21.47.18:394][637]LogFileHelpers: Loading map 'Space_Station' took 0.031
+[2023.03.09-21.47.32:929][325]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.03.09-21.47.32:994][325]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.03.09-21.47.33:001][326]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.03.09-21.47.35:432][472]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2023.03.09-21.47.35:434][472]LogContentBrowser: End creating deferred item NewMaterial
+[2023.03.09-21.47.36:174][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.09-21.47.37:268][515]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.09-21.47.37:285][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.09-21.47.37:290][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.03.09-21.47.37:296][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.03.09-21.47.40:953][732]LogEditorViewport: Clicking Background
+[2023.03.09-21.47.42:712][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.03.09-21.48.58:920][104]LogDerivedDataCache: C:/Users/nehal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:45.059 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.09-21.50.07:043][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.03.09-21.50.07:043][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.03.09-21.50.07:044][615]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_0
+[2023.03.09-21.50.07:051][615]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_0
+[2023.03.09-21.50.11:582][797]Cmd: DELETE
+[2023.03.09-21.50.11:582][797]Cmd: ACTOR DELETE
+[2023.03.09-21.50.11:585][797]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.09-21.50.11:592][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.09-21.50.11:592][797]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2023.03.09-21.50.13:094][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Level/Space_Station" FILE="D:/Level Design/SpaceStation/Content/FirstPerson/Level/Space_Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.09-21.50.13:098][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2023.03.09-21.50.13:101][884]LogSavePackage: Moving output files for package: /Game/FirstPerson/Level/Space_Station
+[2023.03.09-21.50.13:103][884]LogSavePackage: Moving 'D:/Level Design/SpaceStation/Saved/Space_Station354B09334C270E5449ACD5AC632F3650.tmp' to 'D:/Level Design/SpaceStation/Content/FirstPerson/Level/Space_Station.umap'
+[2023.03.09-21.50.13:122][884]AssetCheck: New page: Asset Save: Space_Station
+[2023.03.09-21.50.13:122][884]LogContentValidation: Display: Validating World /Game/FirstPerson/Level/Space_Station.Space_Station
+[2023.03.09-21.50.27:906][580]LogContentBrowser: Attempting asset rename: Space_Station -> Space_Station
+[2023.03.09-21.50.28:891][639]LogObjectTools: Deleting 1 worlds: /Game/FirstPerson/Level/Space_Station.Space_Station
+[2023.03.09-21.50.28:891][639]LogObjectTools: Currently 3 active worlds: /Game/FirstPerson/Level/Space_Station.Space_Station, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2023.03.09-21.50.31:137][639]LogSlate: Window 'Unable to delete level' being destroyed
+[2023.03.09-21.50.31:148][639]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2023.03.09-21.50.36:080][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.03.09-21.50.36:142][932]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2023.03.09-21.50.36:142][932]Cmd: MAP LOAD FILE="D:/Level Design/SpaceStation/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.09-21.50.36:142][932]LightingResults: New page: Lighting Build
+[2023.03.09-21.50.36:142][932]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2023.03.09-21.50.36:143][932]LogWorld: UWorld::CleanupWorld for Space_Station, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-21.50.36:143][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-21.50.36:143][932]MapCheck: New page: Map Check
+[2023.03.09-21.50.36:143][932]LightingResults: New page: Lighting Build
+[2023.03.09-21.50.36:147][932]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.09-21.50.36:148][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.09-21.50.36:149][932]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-21.50.36:149][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-21.50.36:154][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.09-21.50.36:159][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.03.09-21.50.36:163][932]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.03.09-21.50.36:163][932]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-21.50.36:163][932]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.09-21.50.36:164][932]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.09-21.50.36:164][932]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.03.09-21.50.36:185][932]LogWorldPartition: Display: WorldPartition initialize took 22 ms
+[2023.03.09-21.50.36:207][932]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.09-21.50.36:215][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.09-21.50.36:217][932]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.09-21.50.36:217][932]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2023.03.09-21.50.36:217][932]LogFileHelpers: Loading map 'FirstPersonMap' took 0.075
+[2023.03.09-21.50.36:243][932]LogViewport: Scene viewport resized to 1091x815, mode Windowed.
+[2023.03.09-21.50.42:245][283]LogObjectTools: Deleting 1 worlds: /Game/FirstPerson/Level/Space_Station.Space_Station
+[2023.03.09-21.50.42:245][283]LogObjectTools: Currently 3 active worlds: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2023.03.09-21.50.42:250][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2023.03.09-21.50.43:182][283]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.09-21.50.43:191][283]LogWorld: UWorld::CleanupWorld for Space_Station, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-21.50.43:191][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-21.50.43:191][283]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2023.03.09-21.50.43:191][283]LogWorld: UWorld::CleanupWorld for Space_Station, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-21.50.43:191][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-21.50.43:198][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.09-21.50.43:203][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.09-21.50.43:209][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.03.09-21.50.45:130][383]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.03.09-21.50.45:182][383]LogContentBrowser: Creating deferred item: NewWorld
+[2023.03.09-21.50.45:205][385]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.03.09-21.50.46:918][488]LogContentBrowser: Attempting asset rename: NewWorld -> Space_Station
+[2023.03.09-21.50.46:918][488]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-21.50.46:919][488]LogContentBrowser: End creating deferred item NewWorld
+[2023.03.09-21.50.49:532][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.09-21.50.50:366][564]LogSlate: Window 'Save Content' being destroyed
+[2023.03.09-21.50.50:450][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Level/Space_Station" FILE="D:/Level Design/SpaceStation/Content/FirstPerson/Level/Space_Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.09-21.50.50:455][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.03.09-21.50.50:456][564]LogSavePackage: Moving output files for package: /Game/FirstPerson/Level/Space_Station
+[2023.03.09-21.50.50:456][564]LogSavePackage: Moving 'D:/Level Design/SpaceStation/Saved/Space_StationE7D963674382708F6D420F84430C1B91.tmp' to 'D:/Level Design/SpaceStation/Content/FirstPerson/Level/Space_Station.umap'
+[2023.03.09-21.50.50:460][564]LogFileHelpers: Saving map 'Space_Station' took 0.010
+[2023.03.09-21.50.50:470][564]AssetCheck: New page: Asset Save: Space_Station
+[2023.03.09-21.50.50:470][564]LogContentValidation: Display: Validating World /Game/FirstPerson/Level/Space_Station.Space_Station
+[2023.03.09-21.51.20:919][320]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/WL/P3SE4L4R61JG1USDFDO0QG
+[2023.03.09-21.51.20:919][320]LogSavePackage: Moving 'D:/Level Design/SpaceStation/Saved/P3SE4L4R61JG1USDFDO0QG593559C44E06925F0A457ABB88E0DB8E.tmp' to 'D:/Level Design/SpaceStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/WL/P3SE4L4R61JG1USDFDO0QG.uasset'
+[2023.03.09-21.51.20:930][320]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/K3/D8VDAE31OEP25AL99DG8CX
+[2023.03.09-21.51.20:930][320]LogSavePackage: Moving 'D:/Level Design/SpaceStation/Saved/D8VDAE31OEP25AL99DG8CX82ACB5E94EBE37E30E8F3A9EF5334F47.tmp' to 'D:/Level Design/SpaceStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/K3/D8VDAE31OEP25AL99DG8CX.uasset'
+[2023.03.09-21.51.20:931][320]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/HA/M0NE32TU02YXL6EXGV1NL8
+[2023.03.09-21.51.20:931][320]LogSavePackage: Moving 'D:/Level Design/SpaceStation/Saved/M0NE32TU02YXL6EXGV1NL8DEB9B849434345B1B1C581AF3FAF1185.tmp' to 'D:/Level Design/SpaceStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/HA/M0NE32TU02YXL6EXGV1NL8.uasset'
+[2023.03.09-21.51.20:932][320]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/QY/0H4ZKB171ORE6SNNRLNE5Q
+[2023.03.09-21.51.20:932][320]LogSavePackage: Moving 'D:/Level Design/SpaceStation/Saved/0H4ZKB171ORE6SNNRLNE5Q191FCB044D8A5CDD4FC79C801802A536.tmp' to 'D:/Level Design/SpaceStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/QY/0H4ZKB171ORE6SNNRLNE5Q.uasset'
+[2023.03.09-21.51.20:949][320]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.09-21.51.20:949][320]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04BF1B326582C36D01_1531940584
+[2023.03.09-21.51.20:949][320]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04BF1B326582C36D01_1531011583
+[2023.03.09-21.51.20:949][320]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04BF1B326582C36D01_1534039585
+[2023.03.09-21.51.20:949][320]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04BF1B326582C36D01_1537465586
+[2023.03.09-21.53.59:079][427]Cmd: DELETE
+[2023.03.09-21.53.59:079][427]Cmd: ACTOR DELETE
+[2023.03.09-21.53.59:080][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.09-21.53.59:086][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.09-21.53.59:087][427]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2023.03.09-21.53.59:766][466]Cmd: DELETE
+[2023.03.09-21.53.59:766][466]Cmd: ACTOR DELETE
+[2023.03.09-21.53.59:767][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.09-21.53.59:773][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.03.09-21.53.59:773][466]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2023.03.09-21.54.00:312][497]Cmd: DELETE
+[2023.03.09-21.54.00:312][497]Cmd: ACTOR DELETE
+[2023.03.09-21.54.00:313][497]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.09-21.54.00:318][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.03.09-21.54.00:319][497]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2023.03.09-21.54.00:823][526]Cmd: DELETE
+[2023.03.09-21.54.00:823][526]Cmd: ACTOR DELETE
+[2023.03.09-21.54.00:824][526]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.09-21.54.00:830][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.03.09-21.54.00:830][526]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2023.03.09-21.54.04:503][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Level/Space_Station" FILE="D:/Level Design/SpaceStation/Content/FirstPerson/Level/Space_Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.09-21.54.04:509][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.09-21.54.04:510][742]LogSavePackage: Moving output files for package: /Game/FirstPerson/Level/Space_Station
+[2023.03.09-21.54.04:511][742]LogSavePackage: Moving 'D:/Level Design/SpaceStation/Saved/Space_Station03716D0F40A8E86A82BD90BBDC918BC2.tmp' to 'D:/Level Design/SpaceStation/Content/FirstPerson/Level/Space_Station.umap'
+[2023.03.09-21.54.04:514][742]LogFileHelpers: Saving map 'Space_Station' took 0.010
+[2023.03.09-21.54.04:522][742]AssetCheck: New page: Asset Save: Space_Station
+[2023.03.09-21.54.04:522][742]LogContentValidation: Display: Validating World /Game/FirstPerson/Level/Space_Station.Space_Station
+[2023.03.09-21.54.05:435][797]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04BF1B326582C36D01_1531940584 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/K3/D8VDAE31OEP25AL99DG8CX.PackageMetaData in its package
+[2023.03.09-21.54.05:435][797]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04BF1B326582C36D01_1531011583 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/WL/P3SE4L4R61JG1USDFDO0QG.PackageMetaData in its package
+[2023.03.09-21.54.05:435][797]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04BF1B326582C36D01_1534039585 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/HA/M0NE32TU02YXL6EXGV1NL8.PackageMetaData in its package
+[2023.03.09-21.54.05:435][797]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04BF1B326582C36D01_1537465586 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/QY/0H4ZKB171ORE6SNNRLNE5Q.PackageMetaData in its package
+[2023.03.09-21.54.05:436][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.09-21.54.06:881][797]LogSlate: Window 'Save Content' being destroyed
+[2023.03.09-21.54.06:986][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.03.09-21.54.06:992][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.03.09-21.54.06:998][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.03.09-21.54.07:006][797]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Level/Space_Station.Space_Station
+[2023.03.09-21.54.07:006][797]Cmd: MAP LOAD FILE="D:/Level Design/SpaceStation/Content/FirstPerson/Level/Space_Station.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.09-21.54.07:006][797]LightingResults: New page: Lighting Build
+[2023.03.09-21.54.07:006][797]LoadErrors: New page: Loading map: Space_Station.umap
+[2023.03.09-21.54.07:007][797]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-21.54.07:007][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-21.54.07:010][797]MapCheck: New page: Map Check
+[2023.03.09-21.54.07:010][797]LightingResults: New page: Lighting Build
+[2023.03.09-21.54.07:015][797]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.09-21.54.07:017][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.09-21.54.07:018][797]LogWorld: UWorld::CleanupWorld for Space_Station, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-21.54.07:018][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-21.54.07:024][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.09-21.54.07:029][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.09-21.54.07:030][797]LogAudio: Display: Audio Device (ID: 1) registered with world 'Space_Station'.
+[2023.03.09-21.54.07:030][797]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.09-21.54.07:030][797]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-21.54.07:030][797]LogAIModule: Creating AISystem for world Space_Station
+[2023.03.09-21.54.07:032][797]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.09-21.54.07:037][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.09-21.54.07:039][797]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.09-21.54.07:039][797]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.059ms to complete.
+[2023.03.09-21.54.07:039][797]LogFileHelpers: Loading map 'Space_Station' took 0.033
+[2023.03.09-21.54.07:044][797]LogViewport: Scene viewport resized to 1876x815, mode Windowed.
+[2023.03.09-21.54.22:575][903]LogEditorViewport: Clicking Background
+[2023.03.09-21.54.41:024][327]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\nehal\Downloads\Level Sketch\SpaceStation.psd)
+[2023.03.09-21.54.41:048][327]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(55)].
+[2023.03.09-21.54.41:050][327]LogTexture: Display: Building textures: /Game/SpaceStation.SpaceStation (BGRA8, 1443X1839 X1X1) (Required Memory Estimate: 50.614872 MB), EncodeSpeed: Fast
+[2023.03.09-21.54.45:090][460]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/SpaceStation.SpaceStation
+[2023.03.09-21.54.45:104][460]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.03.09-21.54.45:207][460]LogViewport: Scene viewport resized to 1419x843, mode Windowed.
+[2023.03.09-21.54.46:146][515]LogViewport: Scene viewport resized to 1419x828, mode Windowed.
+[2023.03.09-21.54.46:497][536]LogViewport: Scene viewport resized to 1419x843, mode Windowed.
+[2023.03.09-21.54.48:781][673]LogSlate: Window 'SpaceStation' being destroyed
+[2023.03.09-21.55.33:958][213]LogViewport: Scene viewport resized to 1543x815, mode Windowed.
+[2023.03.09-21.55.39:174][519]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.03.09-21.56.16:133][727]LogMaterial: Display: Missing cached shadermap for SpaceStation_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 00989AD4B66D6BD6F33EB7CFE82ABCEFF28DF951), compiling. 
+[2023.03.09-21.56.16:725][753]LogShaderCompilers: Display: ================================================
+[2023.03.09-21.56.16:725][753]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.09-21.56.16:725][753]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.03.09-21.56.16:725][753]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.03.09-21.56.16:725][753]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2023.03.09-21.56.16:725][753]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.09-21.56.16:725][753]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.03.09-21.56.16:725][753]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2023.03.09-21.56.16:725][753]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.10 s
+[2023.03.09-21.56.16:725][753]LogShaderCompilers: Display: Job execution time: average 0.43 s, max 0.43 s
+[2023.03.09-21.56.16:725][753]LogShaderCompilers: Display: Job life time (pending + execution): average 0.53 s, max 0.53
+[2023.03.09-21.56.16:725][753]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.53 s
+[2023.03.09-21.56.16:725][753]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.09-21.56.16:725][753]LogShaderCompilers: Display: Average processing rate: 1.89 jobs/sec
+[2023.03.09-21.56.16:725][753]LogShaderCompilers: Display: Effective parallelization: 0.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.03.09-21.56.16:725][753]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.03.09-21.56.16:725][753]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2023.03.09-21.56.16:725][753]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.03.09-21.56.16:725][753]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2023.03.09-21.56.16:725][753]LogShaderCompilers: Display: ================================================
+[2023.03.09-21.56.25:538][269]Cmd: POLY TEXSCALE  UU=0.250000 VV=0.250000
+[2023.03.09-21.56.30:148][544]Cmd: POLY TEXSCALE  UU=0.062500 VV=0.125000
+[2023.03.09-21.56.36:094][899]Cmd: POLY TEXSCALE  UU=0.125000 VV=0.125000
+[2023.03.09-21.56.41:017][194]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2023.03.09-21.56.41:367][215]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2023.03.09-21.56.41:550][226]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2023.03.09-21.56.41:717][236]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2023.03.09-21.56.41:884][246]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2023.03.09-21.56.42:067][257]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2023.03.09-21.56.42:234][267]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2023.03.09-21.56.42:417][278]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2023.03.09-21.56.45:817][482]Cmd: POLY TEXPAN U=-4.000000 V=-0.000000
+[2023.03.09-21.56.48:434][639]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2023.03.09-22.04.05:837][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.03.09-22.04.05:879][435]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Level/Space_Station_Auto1
+[2023.03.09-22.04.05:879][435]LogSavePackage: Moving 'D:/Level Design/SpaceStation/Saved/Space_Station_Auto1E539DE714B9B4E72E68F69879B8E2375.tmp' to 'D:/Level Design/SpaceStation/Saved/Autosaves/Game/FirstPerson/Level/Space_Station_Auto1.umap'
+[2023.03.09-22.04.05:886][435]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Level/Space_Station' took 0.074
+[2023.03.09-22.04.05:886][435]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.074
+[2023.03.09-22.04.05:886][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpaceStation] ([1] browsable assets)...
+[2023.03.09-22.04.05:890][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/SpaceStation.SpaceStation]
+[2023.03.09-22.04.05:890][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpaceStation]
+[2023.03.09-22.04.05:890][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpaceStation" FILE="D:/Level Design/SpaceStation/Saved/Autosaves/Game/SpaceStation_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.03.09-22.04.05:898][435]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpaceStation_Auto1
+[2023.03.09-22.04.05:898][435]LogSavePackage: Moving 'D:/Level Design/SpaceStation/Saved/SpaceStation_Auto1C66DE13B415E412ED5DA88BFF788B6BD.tmp' to 'D:/Level Design/SpaceStation/Saved/Autosaves/Game/SpaceStation_Auto1.uasset'
+[2023.03.09-22.04.05:898][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpaceStation_Mat] ([1] browsable assets)...
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display: ================================================
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 12 distinct outputs (75.00%)
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display: Jobs assigned 16, completed 16 (100.00%)
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display: Average time worker was idle: 312.71 s
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display: Time job spent in pending queue: average 0.25 s, longest 1.33 s
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display: Job execution time: average 1.05 s, max 1.35 s
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display: Job life time (pending + execution): average 1.29 s, max 1.84
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.68 s
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display: Average processing rate: 5.98 jobs/sec
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display: Effective parallelization: 4.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 1.08 sec, max 1.08 sec, min 1.08 sec)
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 1.06 sec, max 1.06 sec, min 1.06 sec)
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.04 sec, max 1.04 sec, min 1.04 sec)
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.01 sec, max 1.01 sec, min 1.01 sec)
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 8.65% of total time (compiled    1 times, average 1.08 sec, max 1.08 sec, min 1.08 sec)
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 8.46% of total time (compiled    1 times, average 1.06 sec, max 1.06 sec, min 1.06 sec)
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 8.32% of total time (compiled    1 times, average 1.04 sec, max 1.04 sec, min 1.04 sec)
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 8.04% of total time (compiled    1 times, average 1.01 sec, max 1.01 sec, min 1.01 sec)
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 8.01% of total time (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2023.03.09-22.04.07:775][435]LogShaderCompilers: Display: ================================================
+[2023.03.09-22.04.07:838][435]OBJ SavePackage:     Rendered thumbnail for [Material /Game/SpaceStation_Mat.SpaceStation_Mat]
+[2023.03.09-22.04.07:838][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpaceStation_Mat]
+[2023.03.09-22.04.07:839][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpaceStation_Mat" FILE="D:/Level Design/SpaceStation/Saved/Autosaves/Game/SpaceStation_Mat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.03.09-22.04.07:840][435]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpaceStation_Mat_Auto1
+[2023.03.09-22.04.07:840][435]LogSavePackage: Moving 'D:/Level Design/SpaceStation/Saved/SpaceStation_Mat_Auto12E5BB89C444FFF07C89131840B8578EB.tmp' to 'D:/Level Design/SpaceStation/Saved/Autosaves/Game/SpaceStation_Mat_Auto1.uasset'
+[2023.03.09-22.04.07:841][435]LogFileHelpers: Auto-saving content packages took 1.954
+[2023.03.09-22.05.00:865][893]Cmd: POLY TEXSCALE  UU=0.062500 VV=0.062500
+[2023.03.09-22.05.12:903][607]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2023.03.09-22.05.13:086][618]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2023.03.09-22.05.13:269][629]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2023.03.09-22.05.14:587][708]Cmd: POLY TEXPAN U=-1.000000 V=-0.000000
+[2023.03.09-22.05.14:769][719]Cmd: POLY TEXPAN U=-1.000000 V=-0.000000
+[2023.03.09-22.05.15:087][738]Cmd: POLY TEXPAN U=-4.000000 V=-0.000000
+[2023.03.09-22.05.15:303][751]Cmd: POLY TEXPAN U=-4.000000 V=-0.000000
+[2023.03.09-22.05.15:470][761]Cmd: POLY TEXPAN U=-4.000000 V=-0.000000
+[2023.03.09-22.05.16:686][834]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.05.16:853][844]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.05.19:464][995]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2023.03.09-22.05.19:648][  6]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2023.03.09-22.05.20:282][ 44]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.03.09-22.05.20:465][ 55]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.03.09-22.05.21:950][144]Cmd: TRANSACTION UNDO
+[2023.03.09-22.05.21:950][144]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.05.22:276][158]Cmd: TRANSACTION UNDO
+[2023.03.09-22.05.22:276][158]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.05.22:862][189]Cmd: TRANSACTION UNDO
+[2023.03.09-22.05.22:862][189]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.05.23:229][209]Cmd: TRANSACTION UNDO
+[2023.03.09-22.05.23:229][209]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.05.25:226][327]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.05.25:394][337]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.05.25:844][364]Cmd: POLY TEXPAN U=-0.000000 V=-4.000000
+[2023.03.09-22.05.26:027][375]Cmd: POLY TEXPAN U=-0.000000 V=-4.000000
+[2023.03.09-22.05.26:560][407]Cmd: POLY TEXPAN U=-0.000000 V=-64.000000
+[2023.03.09-22.05.26:711][416]Cmd: POLY TEXPAN U=-0.000000 V=-64.000000
+[2023.03.09-22.05.28:161][503]Cmd: POLY TEXPAN U=-0.000000 V=-16.000000
+[2023.03.09-22.05.28:461][521]Cmd: POLY TEXPAN U=-0.000000 V=-16.000000
+[2023.03.09-22.05.28:644][532]Cmd: POLY TEXPAN U=-0.000000 V=-16.000000
+[2023.03.09-22.05.30:777][660]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2023.03.09-22.05.31:109][680]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2023.03.09-22.05.31:294][691]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2023.03.09-22.05.31:477][702]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2023.03.09-22.05.31:660][713]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2023.03.09-22.05.31:844][724]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2023.03.09-22.05.35:210][926]Cmd: POLY TEXPAN U=-1.000000 V=-0.000000
+[2023.03.09-22.05.35:544][946]Cmd: POLY TEXPAN U=-1.000000 V=-0.000000
+[2023.03.09-22.05.35:711][956]Cmd: POLY TEXPAN U=-1.000000 V=-0.000000
+[2023.03.09-22.05.35:910][968]Cmd: POLY TEXPAN U=-1.000000 V=-0.000000
+[2023.03.09-22.05.36:078][978]Cmd: POLY TEXPAN U=-1.000000 V=-0.000000
+[2023.03.09-22.05.36:278][990]Cmd: POLY TEXPAN U=-1.000000 V=-0.000000
+[2023.03.09-22.05.36:444][  0]Cmd: POLY TEXPAN U=-1.000000 V=-0.000000
+[2023.03.09-22.05.36:627][ 11]Cmd: POLY TEXPAN U=-1.000000 V=-0.000000
+[2023.03.09-22.05.36:794][ 21]Cmd: POLY TEXPAN U=-1.000000 V=-0.000000
+[2023.03.09-22.05.37:244][ 48]Cmd: POLY TEXPAN U=-1.000000 V=-0.000000
+[2023.03.09-22.05.47:362][648]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2023.03.09-22.05.51:881][919]Cmd: POLY TEXMULT UU=0.707107 VV=0.707107 UV=-0.707107 VU=0.707107
+[2023.03.09-22.05.54:784][ 87]Cmd: POLY TEXMULT UU=0.707107 VV=0.707107 UV=-0.707107 VU=0.707107
+[2023.03.09-22.05.56:000][160]Cmd: TRANSACTION UNDO
+[2023.03.09-22.05.56:000][160]LogEditorTransaction: Undo Set Texmult
+[2023.03.09-22.05.59:796][374]Cmd: POLY TEXSCALE  UU=0.125000 VV=0.125000
+[2023.03.09-22.06.00:971][444]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.00:972][444]LogEditorTransaction: Undo Set Texscale
+[2023.03.09-22.06.01:214][454]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.01:214][454]LogEditorTransaction: Undo Select Brush Surface
+[2023.03.09-22.06.01:400][459]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.01:400][459]LogEditorTransaction: Undo Select Brush Surface
+[2023.03.09-22.06.01:624][468]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.01:624][468]LogEditorTransaction: Undo Set Texmult
+[2023.03.09-22.06.01:863][481]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.01:863][481]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.02:151][497]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.02:151][497]LogEditorTransaction: Undo Scale Elements
+[2023.03.09-22.06.02:434][512]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.02:434][512]LogEditorTransaction: Undo Scale Elements
+[2023.03.09-22.06.02:440][512]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.ModelComponent_31' invalid (24 verts, 0 indices).
+[2023.03.09-22.06.02:440][512]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.ModelComponent_32' invalid (24 verts, 0 indices).
+[2023.03.09-22.06.02:440][512]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.ModelComponent_33' invalid (24 verts, 0 indices).
+[2023.03.09-22.06.02:440][512]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.ModelComponent_34' invalid (24 verts, 0 indices).
+[2023.03.09-22.06.02:956][539]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.02:956][539]LogEditorTransaction: Undo Select Brush Surface
+[2023.03.09-22.06.03:574][573]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.03:574][573]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.03:912][591]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.03:912][591]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.04:176][605]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.04:178][605]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.04:411][617]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.04:411][617]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.04:592][626]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.04:592][626]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.04:778][635]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.04:778][635]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.04:994][646]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.04:994][646]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.05:359][666]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.05:359][666]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.05:609][679]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.05:609][679]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.05:806][689]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.05:806][689]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.06:055][702]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.06:055][702]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.06:275][713]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.06:275][713]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.06:491][724]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.06:491][724]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.06:714][735]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.06:714][735]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.06:944][747]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.06:944][747]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.08:726][852]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.08:726][852]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.08:924][862]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.08:924][862]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.09:122][872]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.09:122][872]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.09:336][883]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.09:336][883]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.09:551][894]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.09:551][894]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.09:782][906]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.09:782][906]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.10:014][918]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.10:014][918]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.10:245][930]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.10:245][930]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.10:476][942]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.10:476][942]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.10:707][954]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.10:707][954]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.10:954][967]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.10:954][967]LogEditorTransaction: Undo Select Brush Surface
+[2023.03.09-22.06.11:191][979]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.11:191][979]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.11:413][991]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.11:413][991]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.11:682][  6]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.11:682][  6]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.12:054][ 27]Cmd: TRANSACTION UNDO
+[2023.03.09-22.06.12:054][ 27]LogEditorTransaction: Undo Set Texpan
+[2023.03.09-22.06.19:654][475]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2023.03.09-22.06.20:920][551]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.03.09-22.06.21:420][581]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.03.09-22.06.21:887][609]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.03.09-22.06.22:054][619]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.03.09-22.06.22:253][631]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.03.09-22.06.22:421][641]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.03.09-22.06.22:621][653]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.03.09-22.06.22:788][663]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.03.09-22.06.22:971][674]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.03.09-22.06.23:138][684]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.03.09-22.06.23:321][695]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.03.09-22.06.23:521][707]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.03.09-22.06.23:888][729]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.03.09-22.06.24:238][750]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.03.09-22.06.24:838][786]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.03.09-22.06.28:155][985]Cmd: POLY TEXMULT UU=0.707107 VV=0.707107 UV=0.707107 VU=-0.707107
+[2023.03.09-22.06.28:672][ 16]Cmd: POLY TEXMULT UU=0.707107 VV=0.707107 UV=0.707107 VU=-0.707107
+[2023.03.09-22.06.31:360][177]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2023.03.09-22.06.32:241][230]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2023.03.09-22.06.33:409][300]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.06.33:592][311]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.06.33:758][321]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.06.33:941][332]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.06.34:109][342]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.06.34:292][353]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.06.34:475][364]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.06.34:642][374]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.06.34:825][385]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.06.35:009][396]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.06.35:175][406]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.06.35:358][417]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.06.35:525][427]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.06.36:575][490]Cmd: POLY TEXPAN U=-1.000000 V=-0.000000
+[2023.03.09-22.06.36:909][510]Cmd: POLY TEXPAN U=-1.000000 V=-0.000000
+[2023.03.09-22.06.47:956][172]LogEditorViewport: Clicking Background
+[2023.03.09-22.06.52:451][441]LogViewport: Scene viewport resized to 768x405, mode Windowed.
+[2023.03.09-22.06.52:461][441]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.09-22.06.52:477][441]LogViewport: Scene viewport resized to 768x405, mode Windowed.
+[2023.03.09-22.06.52:503][441]LogViewport: Scene viewport resized to 768x405, mode Windowed.
+[2023.03.09-22.06.52:528][441]LogViewport: Scene viewport resized to 1325x700, mode Windowed.
+[2023.03.09-22.06.52:551][442]LogViewport: Scene viewport resized to 816x430, mode Windowed.
+[2023.03.09-22.06.52:567][443]LogViewport: Scene viewport resized to 792x417, mode Windowed.
+[2023.03.09-22.06.52:585][444]LogViewport: Scene viewport resized to 777x409, mode Windowed.
+[2023.03.09-22.06.52:601][445]LogViewport: Scene viewport resized to 771x406, mode Windowed.
+[2023.03.09-22.06.52:619][446]LogViewport: Scene viewport resized to 768x405, mode Windowed.
+[2023.03.09-22.06.59:406][848]LogViewport: Scene viewport resized to 1086x573, mode Windowed.
+[2023.03.09-22.06.59:431][849]LogViewport: Scene viewport resized to 1310x692, mode Windowed.
+[2023.03.09-22.06.59:466][850]LogViewport: Scene viewport resized to 1478x781, mode Windowed.
+[2023.03.09-22.06.59:495][851]LogViewport: Scene viewport resized to 1531x809, mode Windowed.
+[2023.03.09-22.06.59:520][852]LogViewport: Scene viewport resized to 1542x815, mode Windowed.
+[2023.03.09-22.06.59:542][853]LogViewport: Scene viewport resized to 1543x815, mode Windowed.
+[2023.03.09-22.07.29:411][619]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.03.09-22.07.37:117][ 77]Cmd: DELETE
+[2023.03.09-22.07.37:117][ 77]Cmd: ACTOR DELETE
+[2023.03.09-22.07.37:118][ 77]LogEditorActor: Deleted Actor: Brush
+[2023.03.09-22.07.37:124][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.09-22.07.37:128][ 77]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.03.09-22.07.38:688][169]Cmd: TRANSACTION UNDO
+[2023.03.09-22.07.38:688][169]LogEditorTransaction: Undo Delete Elements
+[2023.03.09-22.07.45:685][571]Cmd: TRANSACTION UNDO
+[2023.03.09-22.07.45:686][571]LogEditorTransaction: Undo Move Elements
+[2023.03.09-22.07.46:095][589]Cmd: TRANSACTION UNDO
+[2023.03.09-22.07.46:095][589]LogEditorTransaction: Undo Move Elements
+[2023.03.09-22.07.46:451][606]Cmd: TRANSACTION UNDO
+[2023.03.09-22.07.46:451][606]LogEditorTransaction: Undo Select Brush Surface
+[2023.03.09-22.07.46:896][629]Cmd: TRANSACTION UNDO
+[2023.03.09-22.07.46:896][629]LogEditorTransaction: Undo Brush Add
+[2023.03.09-22.07.46:902][629]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.ModelComponent_31' invalid (24 verts, 0 indices).
+[2023.03.09-22.07.46:902][629]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.ModelComponent_32' invalid (24 verts, 0 indices).
+[2023.03.09-22.07.46:902][629]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.ModelComponent_33' invalid (24 verts, 0 indices).
+[2023.03.09-22.07.46:902][629]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.ModelComponent_34' invalid (24 verts, 0 indices).
+[2023.03.09-22.07.56:227][180]LogEditorViewport: Clicking Background
+[2023.03.09-22.08.00:874][450]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.03.09-22.08.07:032][816]Cmd: TRANSACTION UNDO
+[2023.03.09-22.08.07:032][816]LogEditorTransaction: Undo Move Elements
+[2023.03.09-22.08.16:286][361]LogViewport: Scene viewport resized to 1165x615, mode Windowed.
+[2023.03.09-22.08.16:315][362]LogViewport: Scene viewport resized to 983x518, mode Windowed.
+[2023.03.09-22.08.16:339][363]LogViewport: Scene viewport resized to 885x467, mode Windowed.
+[2023.03.09-22.08.16:372][364]LogViewport: Scene viewport resized to 806x425, mode Windowed.
+[2023.03.09-22.08.16:399][365]LogViewport: Scene viewport resized to 778x410, mode Windowed.
+[2023.03.09-22.08.16:422][366]LogViewport: Scene viewport resized to 769x405, mode Windowed.
+[2023.03.09-22.08.16:442][367]LogViewport: Scene viewport resized to 768x405, mode Windowed.
+[2023.03.09-22.08.17:292][418]LogViewport: Scene viewport resized to 1019x538, mode Windowed.
+[2023.03.09-22.08.17:308][419]LogViewport: Scene viewport resized to 1190x628, mode Windowed.
+[2023.03.09-22.08.17:340][420]LogViewport: Scene viewport resized to 1410x745, mode Windowed.
+[2023.03.09-22.08.17:356][421]LogViewport: Scene viewport resized to 1474x779, mode Windowed.
+[2023.03.09-22.08.17:388][422]LogViewport: Scene viewport resized to 1532x810, mode Windowed.
+[2023.03.09-22.08.17:408][423]LogViewport: Scene viewport resized to 1542x815, mode Windowed.
+[2023.03.09-22.08.17:433][424]LogViewport: Scene viewport resized to 1543x815, mode Windowed.
+[2023.03.09-22.08.21:444][663]Cmd: TRANSACTION UNDO
+[2023.03.09-22.08.21:444][663]LogEditorTransaction: Undo Move Elements
+[2023.03.09-22.08.23:299][767]Cmd: DELETE
+[2023.03.09-22.08.23:299][767]Cmd: ACTOR DELETE
+[2023.03.09-22.08.23:300][767]LogEditorActor: Deleted Actor: Brush
+[2023.03.09-22.08.23:304][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.09-22.08.23:312][767]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2023.03.09-22.08.23:870][801]Cmd: TRANSACTION UNDO
+[2023.03.09-22.08.23:870][801]LogEditorTransaction: Undo Delete Elements
+[2023.03.09-22.08.24:634][844]Cmd: TRANSACTION UNDO
+[2023.03.09-22.08.24:634][844]LogEditorTransaction: Undo Select Brush Surface
+[2023.03.09-22.08.25:001][864]Cmd: TRANSACTION UNDO
+[2023.03.09-22.08.25:001][864]LogEditorTransaction: Undo Brush Add
+[2023.03.09-22.08.27:741][ 28]LogEditorViewport: Clicking Background
+[2023.03.09-22.08.29:814][148]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.03.09-22.08.35:633][491]Cmd: DELETE
+[2023.03.09-22.08.35:633][491]Cmd: ACTOR DELETE
+[2023.03.09-22.08.35:634][491]LogEditorActor: Deleted Actor: Brush
+[2023.03.09-22.08.35:639][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.09-22.08.35:646][491]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2023.03.09-22.08.44:800][ 37]Cmd: POLY TEXSCALE  UU=0.125000 VV=0.125000
+[2023.03.09-22.08.47:749][213]Cmd: POLY TEXSCALE  UU=0.062500 VV=0.062500
+[2023.03.09-22.09.06:414][329]Cmd: POLY TEXMULT UU=0.707107 VV=0.707107 UV=-0.707107 VU=0.707107
+[2023.03.09-22.09.11:671][643]Cmd: POLY TEXSCALE  UU=0.062500 VV=0.062500
+[2023.03.09-22.09.17:661][999]Cmd: POLY SELECT ADJACENT ALL
+[2023.03.09-22.09.22:821][307]Cmd: POLY TEXSCALE  UU=0.062500 VV=0.062500
+[2023.03.09-22.09.28:724][660]Cmd: POLY TEXSCALE  UU=0.125000 VV=0.125000
+[2023.03.09-22.09.32:317][874]Cmd: POLY TEXSCALE  UU=0.062500 VV=0.062500
+[2023.03.09-22.09.35:084][ 40]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2023.03.09-22.09.36:835][145]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.37:002][155]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.37:185][166]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.37:336][175]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.37:518][186]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.37:702][197]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.37:869][207]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.38:068][219]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.38:218][228]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.38:401][239]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.38:585][250]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.38:751][260]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.38:952][272]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.39:118][282]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.39:284][292]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.39:468][303]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.39:651][314]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.40:118][342]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.40:319][354]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.40:501][365]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.40:668][375]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.40:868][387]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.41:052][398]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.41:752][440]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.42:702][497]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2023.03.09-22.09.44:854][626]LogEditorViewport: Clicking Background
+[2023.03.09-22.09.49:904][924]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.03.09-22.09.58:399][430]LogViewport: Scene viewport resized to 1344x710, mode Windowed.
+[2023.03.09-22.09.58:414][431]LogViewport: Scene viewport resized to 1208x638, mode Windowed.
+[2023.03.09-22.09.58:432][432]LogViewport: Scene viewport resized to 1088x574, mode Windowed.
+[2023.03.09-22.09.58:449][433]LogViewport: Scene viewport resized to 990x522, mode Windowed.
+[2023.03.09-22.09.58:465][434]LogViewport: Scene viewport resized to 919x484, mode Windowed.
+[2023.03.09-22.09.58:482][435]LogViewport: Scene viewport resized to 862x454, mode Windowed.
+[2023.03.09-22.09.58:500][436]LogViewport: Scene viewport resized to 820x432, mode Windowed.
+[2023.03.09-22.09.58:532][437]LogViewport: Scene viewport resized to 779x410, mode Windowed.
+[2023.03.09-22.09.58:555][438]LogViewport: Scene viewport resized to 770x405, mode Windowed.
+[2023.03.09-22.09.58:571][439]LogViewport: Scene viewport resized to 768x405, mode Windowed.
+[2023.03.09-22.10.00:719][567]LogViewport: Scene viewport resized to 1103x582, mode Windowed.
+[2023.03.09-22.10.00:744][568]LogViewport: Scene viewport resized to 1325x700, mode Windowed.
+[2023.03.09-22.10.00:784][569]LogViewport: Scene viewport resized to 1496x790, mode Windowed.
+[2023.03.09-22.10.00:810][570]LogViewport: Scene viewport resized to 1534x810, mode Windowed.
+[2023.03.09-22.10.00:830][571]LogViewport: Scene viewport resized to 1542x815, mode Windowed.
+[2023.03.09-22.10.00:857][572]LogViewport: Scene viewport resized to 1543x815, mode Windowed.
+[2023.03.09-22.10.04:322][777]Cmd: TRANSACTION UNDO
+[2023.03.09-22.10.04:322][777]LogEditorTransaction: Undo Marquee Select
+[2023.03.09-22.11.50:255][418]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8BA20066BF869C743294C87CCB7671594C812970), compiling. 
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display: ================================================
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display: Tracking 17 distinct input hashes that result in 13 distinct outputs (76.47%)
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display: Shaders Compiled: 4
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display: Jobs assigned 20, completed 17 (85.00%)
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display: Average time worker was idle: 372.72 s
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display: Time job spent in pending queue: average 0.20 s, longest 1.33 s
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display: Job execution time: average 1.00 s, max 1.35 s
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display: Job life time (pending + execution): average 1.24 s, max 1.84
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.02 s
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display: Jobs were issued in 20 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display: Average processing rate: 5.62 jobs/sec
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display: Effective parallelization: 4.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 1.08 sec, max 1.08 sec, min 1.08 sec)
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 1.06 sec, max 1.06 sec, min 1.06 sec)
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.04 sec, max 1.04 sec, min 1.04 sec)
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.01 sec, max 1.01 sec, min 1.01 sec)
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 8.54% of total time (compiled    1 times, average 1.08 sec, max 1.08 sec, min 1.08 sec)
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 8.36% of total time (compiled    1 times, average 1.06 sec, max 1.06 sec, min 1.06 sec)
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 8.21% of total time (compiled    1 times, average 1.04 sec, max 1.04 sec, min 1.04 sec)
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.94% of total time (compiled    1 times, average 1.01 sec, max 1.01 sec, min 1.01 sec)
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 7.91% of total time (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2023.03.09-22.11.50:623][436]LogShaderCompilers: Display: ================================================
+[2023.03.09-22.11.58:349][881]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8082390A89F74487E5116941AEF1C2F3117ED002), compiling. 
+[2023.03.09-22.11.59:071][920]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9D99246DF957253DD5811736E16CBB3919FA8762), compiling. 
+[2023.03.09-22.11.59:818][956]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 13D2CAF3D5AF5C4FD3119A0115E54FF2126D2FBF), compiling. 
+[2023.03.09-22.12.00:112][968]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7B79110BCDE4962B921488FC848E4D9B44F2D5DC), compiling. 
+[2023.03.09-22.12.10:891][597]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.09-22.12.14:434][809]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/MF_ProcGrid.uasset to D:/Level Design/SpaceStation/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset
+[2023.03.09-22.12.14:434][809]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/MI_PrototypeGrid_Gray.uasset to D:/Level Design/SpaceStation/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset
+[2023.03.09-22.12.14:434][809]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/MI_PrototypeGrid_TopDark.uasset to D:/Level Design/SpaceStation/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset
+[2023.03.09-22.12.14:434][809]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/MI_Solid_Blue.uasset to D:/Level Design/SpaceStation/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset
+[2023.03.09-22.12.14:434][809]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/M_PrototypeGrid.uasset to D:/Level Design/SpaceStation/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset
+[2023.03.09-22.12.14:434][809]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/M_Solid.uasset to D:/Level Design/SpaceStation/Content/LevelPrototyping/Materials/M_Solid.uasset
+[2023.03.09-22.12.14:434][809]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Meshes/SM_ChamferCube.uasset to D:/Level Design/SpaceStation/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset
+[2023.03.09-22.12.14:434][809]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Meshes/SM_Cube.uasset to D:/Level Design/SpaceStation/Content/LevelPrototyping/Meshes/SM_Cube.uasset
+[2023.03.09-22.12.14:436][809]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Meshes/SM_QuarterCylinder.uasset to D:/Level Design/SpaceStation/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset
+[2023.03.09-22.12.14:436][809]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Meshes/SM_Ramp.uasset to D:/Level Design/SpaceStation/Content/LevelPrototyping/Meshes/SM_Ramp.uasset
+[2023.03.09-22.12.14:436][809]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Textures/T_GridChecker_A.uasset to D:/Level Design/SpaceStation/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset
+[2023.03.09-22.12.15:421][809]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.03.09-22.12.15:428][809]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2023.03.09-22.12.15:432][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" to "D:/Level Design/SpaceStation/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+[2023.03.09-22.12.15:439][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset" to "D:/Level Design/SpaceStation/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+[2023.03.09-22.12.15:445][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap.umap" to "D:/Level Design/SpaceStation/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+[2023.03.09-22.12.15:451][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset" to "D:/Level Design/SpaceStation/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset"
+[2023.03.09-22.12.15:454][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset"
+[2023.03.09-22.12.15:458][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset"
+[2023.03.09-22.12.15:461][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset"
+[2023.03.09-22.12.15:464][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset"
+[2023.03.09-22.12.15:467][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset"
+[2023.03.09-22.12.15:469][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset"
+[2023.03.09-22.12.15:472][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset"
+[2023.03.09-22.12.15:476][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset"
+[2023.03.09-22.12.15:479][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset"
+[2023.03.09-22.12.15:482][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset"
+[2023.03.09-22.12.15:484][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset"
+[2023.03.09-22.12.15:488][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset"
+[2023.03.09-22.12.15:492][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset"
+[2023.03.09-22.12.15:495][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset"
+[2023.03.09-22.12.15:498][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset"
+[2023.03.09-22.12.15:500][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset"
+[2023.03.09-22.12.15:503][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset"
+[2023.03.09-22.12.15:506][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset"
+[2023.03.09-22.12.15:509][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset"
+[2023.03.09-22.12.15:513][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset"
+[2023.03.09-22.12.15:515][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset"
+[2023.03.09-22.12.15:518][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset"
+[2023.03.09-22.12.15:524][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset"
+[2023.03.09-22.12.15:527][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset"
+[2023.03.09-22.12.15:530][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset"
+[2023.03.09-22.12.15:533][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset"
+[2023.03.09-22.12.15:537][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset"
+[2023.03.09-22.12.15:540][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset"
+[2023.03.09-22.12.15:543][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset"
+[2023.03.09-22.12.15:547][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset"
+[2023.03.09-22.12.15:550][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset"
+[2023.03.09-22.12.15:553][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset"
+[2023.03.09-22.12.15:556][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+[2023.03.09-22.12.15:560][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset"
+[2023.03.09-22.12.15:563][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset"
+[2023.03.09-22.12.15:566][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset"
+[2023.03.09-22.12.15:570][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset"
+[2023.03.09-22.12.15:574][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset"
+[2023.03.09-22.12.15:577][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset"
+[2023.03.09-22.12.15:580][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset"
+[2023.03.09-22.12.15:584][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset"
+[2023.03.09-22.12.15:586][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset"
+[2023.03.09-22.12.15:591][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset"
+[2023.03.09-22.12.15:594][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset"
+[2023.03.09-22.12.15:598][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset"
+[2023.03.09-22.12.15:601][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
+[2023.03.09-22.12.15:604][809]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset" to "D:/Level Design/SpaceStation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset"
+[2023.03.09-22.12.16:064][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="D:/Level Design/SpaceStation/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2023.03.09-22.12.16:079][809]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.03.09-22.12.16:079][809]LogSavePackage: Moving 'D:/Level Design/SpaceStation/Saved/BP_ThirdPersonCharacter1747B3DF44587E631585D9A0727D792E.tmp' to 'D:/Level Design/SpaceStation/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.03.09-22.12.16:094][809]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Blueprints': Can't find file.
+[2023.03.09-22.12.16:094][809]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Blueprints': Can't find file.
+[2023.03.09-22.12.16:094][809]LogUObjectGlobals: Warning: Failed to find object 'Object None./Game/ThirdPerson/Blueprints'
+[2023.03.09-22.12.16:099][809]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.03.09-22.12.16:099][809]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.03.09-22.12.19:534][ 12]LogSlate: Window 'Add Content to the Project' being destroyed
+[2023.03.09-22.12.22:548][192]LogViewport: Scene viewport resized to 1252x661, mode Windowed.
+[2023.03.09-22.12.22:580][193]LogViewport: Scene viewport resized to 1029x543, mode Windowed.
+[2023.03.09-22.12.22:608][194]LogViewport: Scene viewport resized to 904x476, mode Windowed.
+[2023.03.09-22.12.22:626][195]LogViewport: Scene viewport resized to 845x445, mode Windowed.
+[2023.03.09-22.12.22:647][196]LogViewport: Scene viewport resized to 805x424, mode Windowed.
+[2023.03.09-22.12.22:668][197]LogViewport: Scene viewport resized to 782x412, mode Windowed.
+[2023.03.09-22.12.22:693][198]LogViewport: Scene viewport resized to 770x405, mode Windowed.
+[2023.03.09-22.12.22:710][199]LogViewport: Scene viewport resized to 768x405, mode Windowed.
+[2023.03.09-22.12.23:771][262]LogViewport: Scene viewport resized to 1024x540, mode Windowed.
+[2023.03.09-22.12.23:791][263]LogViewport: Scene viewport resized to 1227x648, mode Windowed.
+[2023.03.09-22.12.23:825][264]LogViewport: Scene viewport resized to 1439x760, mode Windowed.
+[2023.03.09-22.12.23:840][265]LogViewport: Scene viewport resized to 1488x786, mode Windowed.
+[2023.03.09-22.12.23:866][266]LogViewport: Scene viewport resized to 1532x810, mode Windowed.
+[2023.03.09-22.12.23:897][267]LogViewport: Scene viewport resized to 1543x815, mode Windowed.
+[2023.03.09-22.12.30:823][677]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8505D354B897CCB3D065A2D9944467F053F8C2FD), compiling. 
+[2023.03.09-22.12.31:736][730]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E3673315DDB5259995B998F1D7A5EFB224EA6EF1), compiling. 
+[2023.03.09-22.12.32:744][771]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Quinn) ...
+[2023.03.09-22.12.32:916][774]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A68F2BFBC9893D6D3ABBA204448D093F121272D0), compiling. 
+[2023.03.09-22.12.33:822][821]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny_Simple) ...
+[2023.03.09-22.12.34:596][853]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny) ...
+[2023.03.09-22.12.54:027][966]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2023.03.09-22.12.54:027][966]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2023.03.09-22.12.54:027][966]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny as actor: SkeletalMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.SkeletalMeshActor_0
+[2023.03.09-22.12.54:034][966]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny as actor: SkeletalMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.SkeletalMeshActor_0
+[2023.03.09-22.12.54:526][994]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2023.03.09-22.12.54:526][994]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2023.03.09-22.12.54:526][994]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny as actor: SkeletalMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.SkeletalMeshActor_1
+[2023.03.09-22.12.54:530][994]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny as actor: SkeletalMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.SkeletalMeshActor_1
+[2023.03.09-22.13.20:401][531]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.03.09-22.13.20:401][531]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.03.09-22.13.20:401][531]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_0
+[2023.03.09-22.13.20:402][531]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_0
+[2023.03.09-22.13.20:794][554]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.03.09-22.13.20:794][554]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.03.09-22.13.20:796][554]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_1
+[2023.03.09-22.13.20:796][554]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_1
+[2023.03.09-22.13.37:864][565]Cmd: DELETE
+[2023.03.09-22.13.37:864][565]Cmd: ACTOR DELETE
+[2023.03.09-22.13.37:869][565]LogEditorActor: Deleted Actor: Brush
+[2023.03.09-22.13.37:887][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.09-22.13.37:894][565]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2023.03.09-22.14.02:392][ 31]LogEditorViewport: Clicking Background
+[2023.03.09-22.14.04:270][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.03.09-22.14.05:112][143]LogSlate: Window 'Save Content' being destroyed
+[2023.03.09-22.14.05:202][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Level/Space_Station" FILE="D:/Level Design/SpaceStation/Content/FirstPerson/Level/Space_Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.09-22.14.05:207][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.03.09-22.14.05:211][143]LogSavePackage: Moving output files for package: /Game/FirstPerson/Level/Space_Station
+[2023.03.09-22.14.05:211][143]LogSavePackage: Moving 'D:/Level Design/SpaceStation/Saved/Space_Station0C104EAE485EB510E5D9E790A6776F56.tmp' to 'D:/Level Design/SpaceStation/Content/FirstPerson/Level/Space_Station.umap'
+[2023.03.09-22.14.05:216][143]LogFileHelpers: Saving map 'Space_Station' took 0.014
+[2023.03.09-22.14.05:216][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpaceStation" FILE="D:/Level Design/SpaceStation/Content/SpaceStation.uasset" SILENT=true
+[2023.03.09-22.14.05:276][143]LogSavePackage: Moving output files for package: /Game/SpaceStation
+[2023.03.09-22.14.05:276][143]LogSavePackage: Moving 'D:/Level Design/SpaceStation/Saved/SpaceStationABBEA6344DBF91187A0438B5ED7EB40F.tmp' to 'D:/Level Design/SpaceStation/Content/SpaceStation.uasset'
+[2023.03.09-22.14.05:277][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpaceStation_Mat" FILE="D:/Level Design/SpaceStation/Content/SpaceStation_Mat.uasset" SILENT=true
+[2023.03.09-22.14.05:280][143]LogSavePackage: Moving output files for package: /Game/SpaceStation_Mat
+[2023.03.09-22.14.05:280][143]LogSavePackage: Moving 'D:/Level Design/SpaceStation/Saved/SpaceStation_Mat806BD35F4B0CDDC70F73FE8B6B70DCCB.tmp' to 'D:/Level Design/SpaceStation/Content/SpaceStation_Mat.uasset'
+[2023.03.09-22.14.05:297][143]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.09-22.14.05:297][143]LogContentValidation: Display: Validating World /Game/FirstPerson/Level/Space_Station.Space_Station
+[2023.03.09-22.14.05:297][143]LogContentValidation: Display: Validating Material /Game/SpaceStation_Mat.SpaceStation_Mat
+[2023.03.09-22.14.05:297][143]LogContentValidation: Display: Validating Texture2D /Game/SpaceStation.SpaceStation
+[2023.03.09-22.14.35:581][945]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.09-22.15.06:826][807]LogViewport: Scene viewport resized to 1321x698, mode Windowed.
+[2023.03.09-22.15.06:843][808]LogViewport: Scene viewport resized to 1179x622, mode Windowed.
+[2023.03.09-22.15.06:859][809]LogViewport: Scene viewport resized to 1066x563, mode Windowed.
+[2023.03.09-22.15.06:875][810]LogViewport: Scene viewport resized to 975x514, mode Windowed.
+[2023.03.09-22.15.06:893][811]LogViewport: Scene viewport resized to 901x475, mode Windowed.
+[2023.03.09-22.15.06:910][812]LogViewport: Scene viewport resized to 849x448, mode Windowed.
+[2023.03.09-22.15.06:927][813]LogViewport: Scene viewport resized to 814x429, mode Windowed.
+[2023.03.09-22.15.06:978][814]LogViewport: Scene viewport resized to 770x406, mode Windowed.
+[2023.03.09-22.15.06:996][815]LogViewport: Scene viewport resized to 768x405, mode Windowed.
+[2023.03.09-22.15.08:038][875]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.09-22.15.09:541][964]LogViewport: Scene viewport resized to 1180x623, mode Windowed.
+[2023.03.09-22.15.09:580][965]LogViewport: Scene viewport resized to 1439x760, mode Windowed.
+[2023.03.09-22.15.09:616][966]LogViewport: Scene viewport resized to 1527x807, mode Windowed.
+[2023.03.09-22.15.09:653][967]LogViewport: Scene viewport resized to 1543x815, mode Windowed.
+[2023.03.09-22.15.31:041][233]LogViewport: Scene viewport resized to 1072x815, mode Windowed.
+[2023.03.09-22.15.43:017][946]LogViewport: Scene viewport resized to 1083x815, mode Windowed.
+[2023.03.09-22.15.43:057][947]LogViewport: Scene viewport resized to 1098x815, mode Windowed.
+[2023.03.09-22.15.43:096][949]LogViewport: Scene viewport resized to 1115x815, mode Windowed.
+[2023.03.09-22.15.43:130][951]LogViewport: Scene viewport resized to 1136x815, mode Windowed.
+[2023.03.09-22.15.43:152][952]LogViewport: Scene viewport resized to 1150x815, mode Windowed.
+[2023.03.09-22.15.43:190][954]LogViewport: Scene viewport resized to 1181x815, mode Windowed.
+[2023.03.09-22.15.43:227][956]LogViewport: Scene viewport resized to 1202x815, mode Windowed.
+[2023.03.09-22.15.43:264][958]LogViewport: Scene viewport resized to 1222x815, mode Windowed.
+[2023.03.09-22.15.43:288][959]LogViewport: Scene viewport resized to 1236x815, mode Windowed.
+[2023.03.09-22.15.43:321][961]LogViewport: Scene viewport resized to 1259x815, mode Windowed.
+[2023.03.09-22.15.43:360][963]LogViewport: Scene viewport resized to 1280x815, mode Windowed.
+[2023.03.09-22.15.43:397][964]LogViewport: Scene viewport resized to 1289x815, mode Windowed.
+[2023.03.09-22.15.43:431][966]LogViewport: Scene viewport resized to 1296x815, mode Windowed.
+[2023.03.09-22.15.43:466][968]LogViewport: Scene viewport resized to 1303x815, mode Windowed.
+[2023.03.09-22.15.43:500][970]LogViewport: Scene viewport resized to 1309x815, mode Windowed.
+[2023.03.09-22.15.43:533][972]LogViewport: Scene viewport resized to 1311x815, mode Windowed.
+[2023.03.09-22.15.43:616][977]LogViewport: Scene viewport resized to 1313x815, mode Windowed.
+[2023.03.09-22.15.43:643][978]LogViewport: Scene viewport resized to 1315x815, mode Windowed.
+[2023.03.09-22.15.43:687][980]LogViewport: Scene viewport resized to 1324x815, mode Windowed.
+[2023.03.09-22.15.43:720][982]LogViewport: Scene viewport resized to 1329x815, mode Windowed.
+[2023.03.09-22.15.43:756][984]LogViewport: Scene viewport resized to 1332x815, mode Windowed.
+[2023.03.09-22.15.44:963][ 56]LogViewport: Scene viewport resized to 1337x815, mode Windowed.
+[2023.03.09-22.15.45:020][ 58]LogViewport: Scene viewport resized to 1358x815, mode Windowed.
+[2023.03.09-22.15.45:054][ 60]LogViewport: Scene viewport resized to 1376x815, mode Windowed.
+[2023.03.09-22.15.45:074][ 61]LogViewport: Scene viewport resized to 1388x815, mode Windowed.
+[2023.03.09-22.15.45:100][ 62]LogViewport: Scene viewport resized to 1404x815, mode Windowed.
+[2023.03.09-22.15.45:125][ 63]LogViewport: Scene viewport resized to 1430x815, mode Windowed.
+[2023.03.09-22.15.45:159][ 65]LogViewport: Scene viewport resized to 1467x815, mode Windowed.
+[2023.03.09-22.15.45:186][ 66]LogViewport: Scene viewport resized to 1484x815, mode Windowed.
+[2023.03.09-22.15.45:209][ 67]LogViewport: Scene viewport resized to 1493x815, mode Windowed.
+[2023.03.09-22.15.51:026][372]LogRHI: Error: [Aftermath] Status: PageFault
+[2023.03.09-22.15.51:026][372]LogRHI: Error: [Aftermath] Failed to get Aftermath stack data
+[2023.03.09-22.15.51:026][372]LogRHI: Error: [Aftermath] Faulting address: 0x0000000409a08000
+[2023.03.09-22.15.51:026][372]LogRHI: Error: [Aftermath] Faulting resource dims: 3752 x 1632 x 1
+[2023.03.09-22.15.51:026][372]LogRHI: Error: [Aftermath] Faulting result size: 50003968 bytes
+[2023.03.09-22.15.51:026][372]LogRHI: Error: [Aftermath] Faulting resource mips: 1
+[2023.03.09-22.15.51:026][372]LogRHI: Error: [Aftermath] Faulting resource format: R32G8X24_TYPELESS (0x13)
+[2023.03.09-22.15.51:026][372]LogD3D12RHI: Error: PageFault: PageFault at VA GPUAddress "0x409A08000"
+[2023.03.09-22.15.51:026][372]LogD3D12RHI: Error: PageFault: Last completed frame ID: -1 (cached: 56293) - Current frame ID: 56296
+[2023.03.09-22.15.51:026][372]LogD3D12RHI: Error: PageFault: Logging all resource enabled: No
+[2023.03.09-22.15.51:026][372]LogD3D12RHI: Error: PageFault: Found 0 active tracked resources in 16.00 MB range of page fault address
+[2023.03.09-22.15.51:026][372]LogD3D12RHI: Error: PageFault: Found 0 active heaps containing page fault address
+[2023.03.09-22.15.51:026][372]LogD3D12RHI: Error: PageFault: Found 0 released resources containing the page fault address during last 100 frames
+[2023.03.09-22.15.51:026][372]LogD3D12RHI: Error: [GPUBreadCrumb] Last tracked GPU operations:
+[2023.03.09-22.15.51:026][372]LogD3D12RHI: Error: [GPUBreadCrumb]	3D Queue 0 - Begin: Frame 55370 - Scene - PostProcessing - CompositeEditorPrimitives 1300x710 MSAA=4 - Composite 1300x710 MSAA=4
+[2023.03.09-22.15.51:033][372]LogD3D12RHI: Error: pResource->Map(Subresource, pReadRange, reinterpret_cast<void**>(&pData)) failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h:1387 
+ with error DXGI_ERROR_DEVICE_REMOVED with Reason: DXGI_ERROR_DEVICE_HUNG
+
+[2023.03.09-22.15.51:033][372]LogD3D12RHI: Error: [GPUBreadCrumb]	Compute Queue 0 - No Data
+[2023.03.09-22.15.51:047][372]LogD3D12RHI: Error: [GPUBreadCrumb]	Copy Queue 0 - No Data
+[2023.03.09-22.15.51:059][372]LogD3D12RHI: Error: DRED: No breadcrumb head found.
+[2023.03.09-22.15.51:059][372]LogD3D12RHI: Error: DRED: No PageFault data.
+[2023.03.09-22.15.51:059][372]LogD3D12RHI: Error: Memory Info from frame ID 56295:
+[2023.03.09-22.15.51:059][372]LogD3D12RHI: Error: 	Budget:	7264.00 MB
+[2023.03.09-22.15.51:059][372]LogD3D12RHI: Error: 	Used:	4808.71 MB
