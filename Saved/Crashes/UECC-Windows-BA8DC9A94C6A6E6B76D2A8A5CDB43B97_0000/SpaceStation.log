@@ -1,0 +1,1404 @@
+﻿Log file open, 03/10/23 14:54:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=20996)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SpaceStation
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:\Level Design\SpaceStation\SpaceStation.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.1265] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|12th Gen Intel(R) Core(TM) i9-12900H"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="3cf0649046b36f2a5165deaf6a04a18d"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.286669
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-BA8DC9A94C6A6E6B76D2A8A5CDB43B97
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.1265] (), CPU: 12th Gen Intel(R) Core(TM) i9-12900H, GPU: NVIDIA GeForce RTX 3070 Ti Laptop GPU
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.03.10-20.54.17:114][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.03.10-20.54.17:114][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.03.10-20.54.17:114][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.03.10-20.54.17:117][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.03.10-20.54.17:117][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.03.10-20.54.17:117][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.03.10-20.54.17:117][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.03.10-20.54.17:117][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.03.10-20.54.17:117][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.03.10-20.54.17:117][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.03.10-20.54.17:118][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.03.10-20.54.17:118][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.03.10-20.54.17:118][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.03.10-20.54.17:118][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.03.10-20.54.17:144][  0]LogD3D12RHI: Aftermath initialized
+[2023.03.10-20.54.17:144][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.03.10-20.54.17:509][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3070 Ti Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2023.03.10-20.54.17:509][  0]LogD3D12RHI: Adapter has 8032MB of dedicated video memory, 0MB of dedicated system memory, and 32610MB of shared system memory, 1 output[s]
+[2023.03.10-20.54.17:605][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) Iris(R) Xe Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2023.03.10-20.54.17:605][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 32610MB of shared system memory, 0 output[s]
+[2023.03.10-20.54.17:624][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.03.10-20.54.17:624][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 32610MB of shared system memory, 0 output[s]
+[2023.03.10-20.54.17:625][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.03.10-20.54.17:625][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.03.10-20.54.17:625][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.03.10-20.54.17:625][  0]LogHAL: Display: Platform has ~ 64 GB [68388900864 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.03.10-20.54.17:627][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.03.10-20.54.17:627][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.03.10-20.54.17:627][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.03.10-20.54.17:627][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.03.10-20.54.17:627][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Level Design/SpaceStation/Saved/Config/WindowsEditor/Editor.ini]
+[2023.03.10-20.54.17:628][  0]LogInit: Computer: NEHAL
+[2023.03.10-20.54.17:628][  0]LogInit: User: nehal
+[2023.03.10-20.54.17:628][  0]LogInit: CPU Page size=4096, Cores=14
+[2023.03.10-20.54.17:628][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.03.10-20.54.17:628][  0]LogMemory: Memory total: Physical=63.7GB (64GB approx)
+[2023.03.10-20.54.17:628][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.03.10-20.54.17:628][  0]LogMemory: Process Physical Memory: 294.16 MB used, 300.60 MB peak
+[2023.03.10-20.54.17:628][  0]LogMemory: Process Virtual Memory: 274.15 MB used, 274.15 MB peak
+[2023.03.10-20.54.17:628][  0]LogMemory: Physical Memory: 10711.14 MB used,  54509.60 MB free, 65220.74 MB total
+[2023.03.10-20.54.17:628][  0]LogMemory: Virtual Memory: 13150.01 MB used,  56166.73 MB free, 69316.73 MB total
+[2023.03.10-20.54.17:628][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.03.10-20.54.17:739][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.03.10-20.54.17:764][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.03.10-20.54.17:767][  0]LogInit: Using OS detected language (en-US).
+[2023.03.10-20.54.17:767][  0]LogInit: Using OS detected locale (en-US).
+[2023.03.10-20.54.17:777][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.03.10-20.54.17:953][  0]LogInit: Setting process to per monitor DPI aware
+[2023.03.10-20.54.17:978][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.03.10-20.54.17:978][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.03.10-20.54.17:978][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2023.03.10-20.54.17:978][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.03.10-20.54.18:018][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.03.10-20.54.18:018][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.03.10-20.54.20:003][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.03.10-20.54.20:005][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.03.10-20.54.20:006][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.03.10-20.54.20:082][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.03.10-20.54.20:082][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.03.10-20.54.20:082][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.03.10-20.54.20:082][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.03.10-20.54.20:082][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.03.10-20.54.20:082][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.03.10-20.54.20:082][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.03.10-20.54.20:082][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.03.10-20.54.20:082][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.03.10-20.54.20:082][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.03.10-20.54.20:082][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.03.10-20.54.20:082][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.03.10-20.54.20:082][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.03.10-20.54.20:082][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.03.10-20.54.20:082][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.03.10-20.54.20:082][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.03.10-20.54.20:120][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.03.10-20.54.20:126][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.03.10-20.54.20:138][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.03.10-20.54.20:163][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.03.10-20.54.20:163][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.03.10-20.54.20:194][  0]LogD3D12RHI:     GPU DeviceId: 0x24e0 (for the marketing name, search the web for "GPU Device Id")
+[2023.03.10-20.54.20:194][  0]LogWindows: Attached monitors:
+[2023.03.10-20.54.20:194][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1020), device: '\\.\DISPLAY5' [PRIMARY]
+[2023.03.10-20.54.20:194][  0]LogWindows: Found 1 attached monitors.
+[2023.03.10-20.54.20:194][  0]LogWindows: EnumDisplayDevices:
+[2023.03.10-20.54.20:194][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY1'
+[2023.03.10-20.54.20:194][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.03.10-20.54.20:194][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.03.10-20.54.20:194][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.03.10-20.54.20:194][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (P:1 D:1), name: '\\.\DISPLAY5'
+[2023.03.10-20.54.20:194][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.03.10-20.54.20:194][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.03.10-20.54.20:194][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY8'
+[2023.03.10-20.54.20:195][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.03.10-20.54.20:195][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Ti Laptop GPU
+[2023.03.10-20.54.20:195][  0]LogD3D12RHI:   Driver Version: 531.18 (internal:31.0.15.3118, unified:531.18)
+[2023.03.10-20.54.20:195][  0]LogD3D12RHI:      Driver Date: 2-24-2023
+[2023.03.10-20.54.20:195][  0]LogRHI: Texture pool is 4576 MB (70% of 6537 MB)
+[2023.03.10-20.54.20:195][  0]LogD3D12RHI: Async texture creation enabled
+[2023.03.10-20.54.20:195][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.03.10-20.54.20:223][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.03.10-20.54.20:232][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Level Design/SpaceStation/SpaceStation.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Level Design/SpaceStation/Intermediate/TurnkeyReport_0.log" -log="D:/Level Design/SpaceStation/Intermediate/TurnkeyLog_0.log" -project="D:/Level Design/SpaceStation/SpaceStation.uproject"  -platform=all'
+[2023.03.10-20.54.20:232][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Level Design/SpaceStation/SpaceStation.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Level Design/SpaceStation/Intermediate/TurnkeyReport_0.log" -log="D:/Level Design/SpaceStation/Intermediate/TurnkeyLog_0.log" -project="D:/Level Design/SpaceStation/SpaceStation.uproject"  -platform=all" ]
+[2023.03.10-20.54.20:273][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.03.10-20.54.20:288][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.03.10-20.54.20:288][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.03.10-20.54.20:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.03.10-20.54.20:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.03.10-20.54.20:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.03.10-20.54.20:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.03.10-20.54.20:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.03.10-20.54.20:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.03.10-20.54.20:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.03.10-20.54.20:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.03.10-20.54.20:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.03.10-20.54.20:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.03.10-20.54.20:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.03.10-20.54.20:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.03.10-20.54.20:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.03.10-20.54.20:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.03.10-20.54.20:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.03.10-20.54.20:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.03.10-20.54.20:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.03.10-20.54.20:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.03.10-20.54.20:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.03.10-20.54.20:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.03.10-20.54.20:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.03.10-20.54.20:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.03.10-20.54.20:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.03.10-20.54.20:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.03.10-20.54.20:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.03.10-20.54.20:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.03.10-20.54.20:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.03.10-20.54.20:334][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.03.10-20.54.20:343][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.03.10-20.54.20:346][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.03.10-20.54.20:346][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.03.10-20.54.20:347][  0]LogTargetPlatformManager:   ADPCM
+[2023.03.10-20.54.20:347][  0]LogTargetPlatformManager:   PCM
+[2023.03.10-20.54.20:350][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.03.10-20.54.20:350][  0]LogTargetPlatformManager:   BINKA
+[2023.03.10-20.54.20:350][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.03.10-20.54.20:350][  0]LogTargetPlatformManager:   OGG
+[2023.03.10-20.54.20:350][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.03.10-20.54.20:350][  0]LogTargetPlatformManager:   OPUS
+[2023.03.10-20.54.20:448][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.03.10-20.54.20:455][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.03.10-20.54.20:455][  0]LogTargetPlatformManager:   SF_METAL
+[2023.03.10-20.54.20:455][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.03.10-20.54.20:455][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.03.10-20.54.20:455][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.03.10-20.54.20:455][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.03.10-20.54.20:455][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.03.10-20.54.20:455][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.03.10-20.54.20:455][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.03.10-20.54.20:455][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.03.10-20.54.20:455][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.03.10-20.54.20:455][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.03.10-20.54.20:455][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.03.10-20.54.20:455][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.03.10-20.54.20:455][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.03.10-20.54.20:455][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.03.10-20.54.20:460][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.03.10-20.54.20:460][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.03.10-20.54.20:460][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.03.10-20.54.20:460][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.03.10-20.54.20:460][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.03.10-20.54.20:460][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.03.10-20.54.20:460][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.03.10-20.54.20:460][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.03.10-20.54.20:462][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Level Design/SpaceStation/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.03.10-20.54.20:467][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.03.10-20.54.20:468][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Level Design/SpaceStation/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.03.10-20.54.20:471][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.03.10-20.54.20:475][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Level Design/SpaceStation/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.03.10-20.54.20:475][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.03.10-20.54.20:475][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Level Design/SpaceStation/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.10-20.54.20:475][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.03.10-20.54.20:495][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.03.10-20.54.20:495][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.10-20.54.20:495][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.03.10-20.54.20:507][  0]LogDerivedDataCache: Speed tests for C:/Users/nehal/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.03.10-20.54.20:507][  0]LogDerivedDataCache: Display: Performance to C:/Users/nehal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.17ms. RandomReadSpeed=174.36MBs, RandomWriteSpeed=270.67MBs. Assigned SpeedClass 'Local'
+[2023.03.10-20.54.20:508][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nehal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.03.10-20.54.20:508][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.03.10-20.54.20:508][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.03.10-20.54.20:512][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.03.10-20.54.20:512][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.03.10-20.54.20:517][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (D:/Level Design/SpaceStation/Intermediate/Shaders/WorkingDirectory/1916/).
+[2023.03.10-20.54.20:517][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nehal/AppData/Local/Temp/UnrealShaderWorkingDir/EFD0E7244292657B3589389ED746E29A/'.
+[2023.03.10-20.54.20:518][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.03.10-20.54.20:518][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 10 workers.
+[2023.03.10-20.54.24:100][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.03.10-20.54.24:100][  0]LogSlate: Using FreeType 2.10.0
+[2023.03.10-20.54.24:112][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.03.10-20.54.24:156][  0]LogAssetRegistry: FAssetRegistry took 0.0127 seconds to start up
+[2023.03.10-20.54.24:161][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.03.10-20.54.24:379][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.03.10-20.54.24:383][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.03.10-20.54.24:559][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.03.10-20.54.24:559][  0]LogDeviceProfileManager: Active device profile: [000004B9ADA28C00][000004B9A0F9A000 50] WindowsEditor
+[2023.03.10-20.54.24:559][  0]LogDeviceProfileManager: Profiles: [000004B9ADA286C0][000004B98F9F7800 50] Windows, [000004B9ADA28C00][000004B9A0F9A000 50] WindowsEditor, [000004B9ADA24600][000004B9A0F45000 50] WindowsServer, [000004B9ADA28A40][000004B9A0F47800 50] WindowsClient, [000004B9ADA28340][000004B9A0F90000 50] IOS, [000004B9ADA263C0][000004B9ADDA2800 50] iPadAir2, [000004B9ADA29140][000004B9A0F92800 50] IPadPro, [000004B9ADA294C0][000004B9ADDAC800 50] iPadAir3, [000004B9ADA255C0][000004B9ADDA7800 50] iPadAir4, [000004B9ADA271C0][000004B9A505A000 50] iPadMini4, [000004B9ADA26E40][000004B9ADDA5000 50] iPadMini5, [000004B9ADA29840][000004B9ADDC2800 50] iPadMini6, [000004B9ADA2C080][000004B9ADDE5000 50] iPhone6S, [000004B9ADA2C400][000004B9ADDE0000 50] iPhone7, [000004B9ADA2C780][000004B9ADDE2800 50] iPodTouch7, [000004B9ADA25B00][000004B9ADDC7800 50] iPhone6SPlus, [000004B9ADA25780][000004B9ADDC0000 50] iPhone7Plus, [000004B9ADA2AB80][000004B9ADDA0000 50] iPhoneSE, [000004B9ADA2BEC0][000004B9ADDCC800 50] iPhone8, [000004B9ADA26AC0][000004B9ADDEC800 50] iPhone8Plus, [000004B9ADA27A80][000004B9ADDCA000 50] iPhoneX, [000004B9ADA2B0C0][000004B9ADDC5000 50] iPhoneXS, [000004B9ADA27000][000004B9ADDEA000 50] iPhoneXSMax, [000004B9ADA2CB00][000004B9ADDD2800 50] iPhoneXR, [000004B9ADA278C0][000004B9ADDD0000 50] iPhone11, [000004B9ADA2A640][000004B9ADDDA000 50] iPhone11Pro, [000004B9ADA27C40][000004B9ADDE7800 50] iPhone11ProMax, [000004B9ADA24B40][000004B9ADDAA000 50] iPhoneSE2, [000004B9ADA29680][000004B9ADDD7800 50] iPhone12Mini, [000004B9ADA2B980][000004B9ADE02800 50] iPhone12, [000004B9ADA25080][000004B9ADE00000 50] iPhone12Pro, [000004B9ADA29300][000004B9ADE0A000 50] iPhone12ProMax, [000004B9ADA24D00][000004B9ADDD5000 50] iPhone13Mini, [000004B9ADA2A2C0][000004B9ADE05000 50] iPhone13, [000004B9ADA2A9C0][000004B9ADE07800 50] iPhone13Pro, [000004B9ADA28F80][000004B9ADE12800 50] iPhone13ProMax, [000004B9ADA27700][000004B9ADE10000 50] iPadPro105, [000004B9ADA29D80][000004B9ADE1A000 50] iPadPro129, [000004B9ADA26200][000004B9ADE0C800 50] iPadPro97, [000004B9ADA2C5C0][000004B9A505C800 50] iPadPro2_129, [000004B9ADA26900][000004B9ADE17800 50] iPad5, [000004B9ADA2B280][000004B9ADE32800 50] iPad6, [000004B9ADA24980][000004B9ADE30000 50] iPad7, [000004B9ADA2C240][000004B9ADE3A000 50] iPad8, [000004B9ADA27FC0][000004B9ADE15000 50] iPad9, [000004B9ADA29F40][000004B9ADE35000 50] iPadPro11, [000004B9ADA240C0][000004B9ADE37800 50] iPadPro2_11, [000004B9ADA25240][000004B9ADE42800 50] iPadPro3_11, [000004B9ADA27380][000004B9ADE40000 50] iPadPro3_129, [000004B9ADA2BB40][000004B9ADE4A000 50] iPadPro4_129, [000004B9ADA26580][000004B9ADE3C800 50] iPadPro5_129, [000004B9ADA2B7C0][000004B9ADDDC800 50] AppleTV, [000004B9ADA2BD00][000004B9ADE47800 50] AppleTV4K, [000004B9ADA28500][000004B9ADE52800 50] TVOS, [000004B9ADA2E380][000004B9ADE1C800 50] Mac, [000004B9ADA2E700][000004B9ADE5C800 50] MacEditor, [000004B9ADA24EC0][000004B9ADE57800 50] MacClient, [000004B9ADA2E540][000004B9ADE45000 50] MacServer, [000004B9ADA24440][000004B9ADE62800 50] Linux, [000004B9ADA2EE00][000004B9ADE60000 50] LinuxEditor, [000004B9ADA27E00][000004B9ADE65000 50] LinuxArm64Editor, [000004B9ADA2CE80][000004B9ADE55000 50] LinuxArm64, [000004B9ADA2E000][000004B9ADE6C800 50] LinuxClient, [000004B9ADA25E80][000004B9ADE4C800 50] LinuxArm64Client, [000004B9ADA25940][000004B9ADE67800 50] LinuxServer, [000004B9ADA2AD40][000004B9ADE72800 50] LinuxArm64Server, [000004B9ADA2CCC0][000004B9ADE70000 50] Android, [000004B9ADA2EA80][000004B9ADE7A000 50] Android_Preview_OpenGL, [000004B9ADA2F180][000004B9ADE50000 50] Android_Preview_Vulkan, [000004B9ADA26C80][000004B9ADE75000 50] Android_Low, [000004B9ADA2A800][000004B9ADE77800 50] Android_Mid, [000004B9ADA2DC80][000004B9ADE82800 50] Android_High, [000004B9ADA2E8C0][000004B9ADE80000 50] Android_Default, [000004B9ADA24280][000004B9ADE8A000 50] Android_Adreno4xx, [000004B9ADA2F880][000004B9ADE7C800 50] Android_Adreno5xx_Low, [000004B9ADA2EC40][000004B9ADE6A000 50] Android_Adreno5xx, [000004B9ADA2C940][000004B9ADE87800 50] Android_Adreno6xx, [000004B9ADA25CC0][000004B9ADE92800 50] Android_Adreno6xx_Vulkan, [000004B9ADA25400][000004B9ADE90000 50] Android_Adreno7xx, [000004B9ADA2A100][000004B9ADE9A000 50] Android_Adreno7xx_Vulkan, [000004B9ADA28DC0][000004B9ADE85000 50] Android_Mali_T6xx, [000004B9ADA26740][000004B9ADE95000 50] Android_Mali_T7xx, [000004B9ADA2D200][000004B9ADE97800 50] Android_Mali_T8xx, [000004B9ADA2A480][000004B9ADEA2800 50] Android_Mali_G71, [000004B9ADA28180][000004B9ADEA0000 50] Android_Mali_G72, [000004B9ADA2DAC0][000004B9ADEAA000 50] Android_Mali_G72_Vulkan, [000004B9ADA2F340][000004B9ADE9C800 50] Android_Mali_G76, [000004B9ADA2B600][000004B9ADE5A000 50] Android_Mali_G76_Vulkan, [000004B9ADA2FC00][000004B9ADEA7800 50] Android_Mali_G77, [000004B9ADA2F500][000004B9ADEB2800 50] Android_Mali_G77_Vulkan, [000004B9ADEC2140][000004B9ADEB0000 50] Android_Mali_G78, [000004B9ADEC0540][000004B9ADEBA000 50] Android_Mali_G78_Vulkan, [000004B9ADEC2680][000004B9ADEA5000 50] Android_Mali_G710, [000004B9ADEC1180][000004B9ADEB5000 50] Android_Mali_G710_Vulkan, [000004B9ADEC1F80][000004B9ADEB7800 50] Android_Xclipse_920, [000004B9ADEC0700][000004B9ADED2800 50] Android_Xclipse_920_Vulkan, [000004B9ADEC1C00][000004B9ADED0000 50] Android_Vulkan_SM5, [000004B9ADEC1A40][000004B9ADEDA000 50] Android_PowerVR_G6xxx, [000004B9ADEC3640][000004B9ADEBC800 50] Android_PowerVR_GT7xxx, [000004B9ADEC1500][000004B9ADE8C800 50] Android_PowerVR_GE8xxx, [000004B9ADEC2BC0][000004B9ADED7800 50] Android_PowerVR_GM9xxx, [000004B9ADEC0380][000004B9ADEE2800 50] Android_PowerVR_GM9xxx_Vulkan, [000004B9ADEC3800][000004B9ADEE0000 50] Android_TegraK1, [000004B9ADEC2300][000004B9ADEEA000 50] Android_Unknown_Vulkan, [000004B9ADEC3B80][000004B9ADED5000 50] Oculus_Quest, [000004B9ADEC2D80][000004B9ADEE5000 50] Oculus_Quest2, [000004B9ADEC0C40][000004B9ADEE7800 50] HoloLens, 
+[2023.03.10-20.54.24:559][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.03.10-20.54.24:564][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.03.10-20.54.24:564][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.03.10-20.54.24:564][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.03.10-20.54.24:564][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.03.10-20.54.24:564][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.03.10-20.54.24:652][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.03.10-20.54.24:823][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.03.10-20.54.24:824][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.03.10-20.54.24:824][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.03.10-20.54.24:824][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.03.10-20.54.24:824][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.03.10-20.54.24:868][  0]LogNetVersion: SpaceStation 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1428013041)
+[2023.03.10-20.54.25:239][  0]LogSlate: Border
+[2023.03.10-20.54.25:239][  0]LogSlate: BreadcrumbButton
+[2023.03.10-20.54.25:239][  0]LogSlate: Default
+[2023.03.10-20.54.25:239][  0]LogSlate: Icons.Save
+[2023.03.10-20.54.25:239][  0]LogSlate: Icons.Toolbar.Settings
+[2023.03.10-20.54.25:239][  0]LogSlate: ListView
+[2023.03.10-20.54.25:239][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.03.10-20.54.25:239][  0]LogSlate: SoftwareCursor_Grab
+[2023.03.10-20.54.25:239][  0]LogSlate: TableView.DarkRow
+[2023.03.10-20.54.25:239][  0]LogSlate: TableView.Row
+[2023.03.10-20.54.25:239][  0]LogSlate: TreeView
+[2023.03.10-20.54.25:653][  0]SourceControl: Source control is disabled
+[2023.03.10-20.54.25:731][  0]SourceControl: Source control is disabled
+[2023.03.10-20.54.25:731][  0]SourceControl: Source control is disabled
+[2023.03.10-20.54.25:888][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.03.10-20.54.25:888][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.03.10-20.54.25:888][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.10-20.54.26:257][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.03.10-20.54.26:275][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.03.10-20.54.26:567][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 6116AC3E4D2934F48FC0C8B888A208AE | Instance: 90BA5E2D45180E6D63E20AA88F8B1A93 (NEHAL-1916).
+[2023.03.10-20.54.26:680][  0]LogPython: Using Python 3.9.7
+[2023.03.10-20.54.27:488][  0]SourceControl: Source control is disabled
+[2023.03.10-20.54.27:521][  0]SourceControl: Source control is disabled
+[2023.03.10-20.54.27:525][  0]SourceControl: Source control is disabled
+[2023.03.10-20.54.27:543][  0]LogUProjectInfo: Found projects:
+[2023.03.10-20.54.28:078][  0]LogOpenImageDenoise: OIDN starting up
+[2023.03.10-20.54.28:098][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.03.10-20.54.28:117][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.10-20.54.28:117][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.10-20.54.28:239][  0]LogCollectionManager: Loaded 0 collections in 0.002052 seconds
+[2023.03.10-20.54.28:339][  0]LogFileCache: Scanning file cache for directory 'D:/Level Design/SpaceStation/Saved/Collections/' took 0.00s
+[2023.03.10-20.54.28:339][  0]LogFileCache: Scanning file cache for directory 'D:/Level Design/SpaceStation/Content/Developers/nehal/Collections/' took 0.00s
+[2023.03.10-20.54.28:339][  0]LogFileCache: Scanning file cache for directory 'D:/Level Design/SpaceStation/Content/Collections/' took 0.00s
+[2023.03.10-20.54.28:640][  0]LogEngine: Initializing Engine...
+[2023.03.10-20.54.28:655][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.03.10-20.54.28:658][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.03.10-20.54.29:054][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.03.10-20.54.29:056][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.10-20.54.29:073][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-20.54.29:107][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.03.10-20.54.29:111][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.03.10-20.54.29:129][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.03.10-20.54.29:132][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.03.10-20.54.29:132][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.03.10-20.54.29:133][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.03.10-20.54.29:133][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.03.10-20.54.29:133][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.10-20.54.29:133][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.10-20.54.29:133][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.10-20.54.29:133][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.10-20.54.29:133][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.10-20.54.29:134][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.10-20.54.29:134][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.10-20.54.29:134][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.10-20.54.29:134][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.10-20.54.29:134][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.10-20.54.29:134][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.10-20.54.29:143][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.10-20.54.29:240][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.10-20.54.29:242][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.10-20.54.29:259][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.10-20.54.29:259][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.10-20.54.29:260][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.03.10-20.54.29:260][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.03.10-20.54.29:262][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.03.10-20.54.29:262][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.03.10-20.54.29:262][  0]LogInit: FAudioDevice initialized.
+[2023.03.10-20.54.29:262][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.10-20.54.29:262][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.03.10-20.54.29:262][  0]LogInit: Texture streaming: Enabled
+[2023.03.10-20.54.29:291][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.03.10-20.54.29:299][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.03.10-20.54.29:325][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.03.10-20.54.29:334][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.03.10-20.54.29:334][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.03.10-20.54.30:750][  0]LogLiveCoding: Display: First instance in process group "UE_SpaceStation_0x71224d5f", spawning console
+[2023.03.10-20.54.30:750][  0]LogLiveCoding: Display: Waiting for server
+[2023.03.10-20.54.30:750][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.03.10-20.54.30:768][  0]LogInit: Transaction tracking system initialized
+[2023.03.10-20.54.30:837][  0]BlueprintLog: New page: Editor Load
+[2023.03.10-20.54.31:021][  0]LocalizationService: Localization service is disabled
+[2023.03.10-20.54.31:066][  0]TimingProfiler: Initialize
+[2023.03.10-20.54.31:066][  0]TimingProfiler: OnSessionChanged
+[2023.03.10-20.54.31:066][  0]LoadingProfiler: Initialize
+[2023.03.10-20.54.31:066][  0]LoadingProfiler: OnSessionChanged
+[2023.03.10-20.54.31:067][  0]NetworkingProfiler: Initialize
+[2023.03.10-20.54.31:068][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.10-20.54.31:068][  0]MemoryProfiler: Initialize
+[2023.03.10-20.54.31:068][  0]MemoryProfiler: OnSessionChanged
+[2023.03.10-20.54.31:825][  0]LogFileCache: Scanning file cache for directory 'D:/Level Design/SpaceStation/Content/' took 0.01s
+[2023.03.10-20.54.31:825][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.03.10-20.54.31:942][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.10-20.54.31:945][  0]SourceControl: Source control is disabled
+[2023.03.10-20.54.31:946][  0]LogUnrealEdMisc: Loading editor; pre map load, took 17.140
+[2023.03.10-20.54.31:947][  0]Cmd: MAP LOAD FILE="D:/Level Design/SpaceStation/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.10-20.54.31:954][  0]LightingResults: New page: Lighting Build
+[2023.03.10-20.54.31:960][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-20.54.31:961][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-20.54.31:962][  0]MapCheck: New page: Map Check
+[2023.03.10-20.54.31:962][  0]LightingResults: New page: Lighting Build
+[2023.03.10-20.54.31:971][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.10-20.54.31:977][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.10-20.54.32:277][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.03.10-20.54.32:283][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-20.54.32:283][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.10-20.54.32:285][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.10-20.54.32:285][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.03.10-20.54.32:735][  0]LogWorldPartition: Display: WorldPartition initialize took 449 ms
+[2023.03.10-20.54.32:753][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.10-20.54.32:761][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.03.10-20.54.32:761][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.10-20.54.32:762][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.347ms to complete.
+[2023.03.10-20.54.32:762][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 0.815
+[2023.03.10-20.54.32:780][  0]LogUnrealEdMisc: Total Editor Startup Time, took 17.974
+[2023.03.10-20.54.32:780][  0]LogShaderCompilers: Display: ================================================
+[2023.03.10-20.54.32:780][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.10-20.54.32:780][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.03.10-20.54.32:780][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.03.10-20.54.32:780][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2023.03.10-20.54.32:780][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.10-20.54.32:780][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.03.10-20.54.32:780][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.03.10-20.54.32:780][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.03.10-20.54.32:780][  0]LogShaderCompilers: Display: ================================================
+[2023.03.10-20.54.32:859][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.10-20.54.32:859][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.10-20.54.32:859][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.10-20.54.32:859][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.10-20.54.32:859][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.10-20.54.32:859][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.10-20.54.32:859][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.10-20.54.32:859][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.10-20.54.32:859][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.10-20.54.32:859][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.10-20.54.32:859][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.10-20.54.32:859][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.10-20.54.32:859][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.10-20.54.32:859][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.10-20.54.32:859][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.10-20.54.32:859][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.10-20.54.32:859][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.10-20.54.32:859][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.10-20.54.32:859][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.10-20.54.32:859][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.10-20.54.32:875][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.10-20.54.32:879][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.10-20.54.32:882][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.10-20.54.32:886][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.10-20.54.32:975][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.03.10-20.54.32:975][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.10-20.54.32:983][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.03.10-20.54.32:983][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.10-20.54.32:989][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.03.10-20.54.32:989][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.10-20.54.32:995][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.03.10-20.54.32:995][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.10-20.54.33:006][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.03.10-20.54.33:006][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.10-20.54.33:011][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.03.10-20.54.33:011][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.10-20.54.33:016][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.03.10-20.54.33:016][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.10-20.54.33:020][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.03.10-20.54.33:021][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.10-20.54.33:024][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.03.10-20.54.33:024][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.10-20.54.33:028][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.03.10-20.54.33:028][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.10-20.54.33:028][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.03.10-20.54.33:220][  0]LogSlate: Took 0.003373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.10-20.54.33:224][  0]LogSlate: Took 0.000582 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.10-20.54.33:240][  0]LogViewport: Scene viewport resized to 1876x815, mode Windowed.
+[2023.03.10-20.54.33:640][  0]LogStall: Startup...
+[2023.03.10-20.54.33:641][  0]LogStall: Startup complete.
+[2023.03.10-20.54.33:652][  0]LogLoad: (Engine Initialization) Total time: 18.85 seconds
+[2023.03.10-20.54.33:652][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.10-20.54.33:718][  0]LogAssetRegistry: Asset discovery search completed in 9.5641 seconds
+[2023.03.10-20.54.33:740][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.03.10-20.54.33:744][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.03.10-20.55.08:180][103]LogSlate: Took 0.003951 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.10-20.55.08:185][103]LogSlate: Took 0.003830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.10-20.55.08:191][103]LogSlate: Took 0.000769 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.10-20.55.18:848][513]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.03.10-20.55.18:848][513]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.03.10-20.55.43:689][977]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Window_A.SM_Floor_Window_A
+[2023.03.10-20.55.43:708][977]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Window_A) ...
+[2023.03.10-20.55.43:762][977]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-20.55.44:060][977]LogViewport: Scene viewport resized to 1013x848, mode Windowed.
+[2023.03.10-20.55.44:169][977]LogSlate: Took 0.003848 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.10-20.55.55:558][651]LogSlate: Window 'SM_Floor_Window_A' being destroyed
+[2023.03.10-20.55.55:585][651]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-20.55.55:585][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-20.55.57:478][758]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Window_C.SM_Floor_Window_C
+[2023.03.10-20.55.57:496][758]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Window_C) ...
+[2023.03.10-20.55.57:546][758]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-20.55.57:711][758]LogViewport: Scene viewport resized to 1013x848, mode Windowed.
+[2023.03.10-20.56.00:202][904]LogSlate: Window 'SM_Floor_Window_C' being destroyed
+[2023.03.10-20.56.00:227][904]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-20.56.00:227][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-20.56.15:387][791]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A.SM_FloorBuffer_A
+[2023.03.10-20.56.15:404][791]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A) ...
+[2023.03.10-20.56.15:485][791]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-20.56.15:667][791]LogViewport: Scene viewport resized to 1013x848, mode Windowed.
+[2023.03.10-20.56.21:088][111]LogSlate: Window 'SM_FloorBuffer_A' being destroyed
+[2023.03.10-20.56.21:114][111]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-20.56.21:114][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-20.56.22:290][180]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A_2.SM_FloorBuffer_A_2
+[2023.03.10-20.56.22:308][180]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A_2) ...
+[2023.03.10-20.56.22:342][180]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-20.56.22:506][180]LogViewport: Scene viewport resized to 1013x848, mode Windowed.
+[2023.03.10-20.56.25:716][368]LogSlate: Window 'SM_FloorBuffer_A_2' being destroyed
+[2023.03.10-20.56.25:744][368]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-20.56.25:744][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-20.56.27:142][450]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B.SM_FloorBuffer_B
+[2023.03.10-20.56.27:160][450]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B) ...
+[2023.03.10-20.56.27:200][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-20.56.27:411][450]LogViewport: Scene viewport resized to 1013x848, mode Windowed.
+[2023.03.10-20.56.30:625][638]LogSlate: Window 'SM_FloorBuffer_B' being destroyed
+[2023.03.10-20.56.30:649][638]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-20.56.30:649][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-20.56.31:692][699]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B_2.SM_FloorBuffer_B_2
+[2023.03.10-20.56.31:709][699]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B_2) ...
+[2023.03.10-20.56.31:752][699]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-20.56.31:924][699]LogViewport: Scene viewport resized to 1013x848, mode Windowed.
+[2023.03.10-20.56.34:837][870]LogSlate: Window 'SM_FloorBuffer_B_2' being destroyed
+[2023.03.10-20.56.34:865][870]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-20.56.34:865][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-20.56.36:407][961]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C.SM_FloorBuffer_C
+[2023.03.10-20.56.36:425][961]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C) ...
+[2023.03.10-20.56.36:462][961]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-20.56.36:641][961]LogViewport: Scene viewport resized to 1013x848, mode Windowed.
+[2023.03.10-20.56.48:657][677]LogSlate: Window 'SM_FloorBuffer_C' being destroyed
+[2023.03.10-20.56.48:681][677]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-20.56.48:681][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-20.56.51:258][828]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C_2.SM_FloorBuffer_C_2
+[2023.03.10-20.56.51:276][828]LogStaticMesh: Display: Building static mesh SM_FloorBuffer_C_2...
+[2023.03.10-20.56.51:276][828]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C_2) ...
+[2023.03.10-20.56.51:470][828]LogStaticMesh: Built static mesh [0.19s] /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C_2.SM_FloorBuffer_C_2
+[2023.03.10-20.56.51:492][828]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-20.56.51:687][828]LogViewport: Scene viewport resized to 1013x848, mode Windowed.
+[2023.03.10-20.56.56:561][113]LogSlate: Window 'SM_FloorBuffer_C_2' being destroyed
+[2023.03.10-20.56.56:588][113]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-20.56.56:588][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-20.56.58:167][203]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A.SM_FloorPanel_A
+[2023.03.10-20.56.58:184][203]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A) ...
+[2023.03.10-20.56.58:229][203]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-20.56.58:414][203]LogViewport: Scene viewport resized to 1013x848, mode Windowed.
+[2023.03.10-20.57.01:131][362]LogSlate: Window 'SM_FloorPanel_A' being destroyed
+[2023.03.10-20.57.01:159][362]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-20.57.01:159][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-20.57.02:420][436]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A_2.SM_FloorPanel_A_2
+[2023.03.10-20.57.02:437][436]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A_2) ...
+[2023.03.10-20.57.02:493][436]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-20.57.02:689][436]LogViewport: Scene viewport resized to 1013x848, mode Windowed.
+[2023.03.10-20.57.06:538][663]LogSlate: Window 'SM_FloorPanel_A_2' being destroyed
+[2023.03.10-20.57.06:563][663]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-20.57.06:563][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-20.57.07:775][733]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_B.SM_FloorPanel_B
+[2023.03.10-20.57.07:792][733]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_B) ...
+[2023.03.10-20.57.07:841][733]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-20.57.08:057][733]LogViewport: Scene viewport resized to 1013x848, mode Windowed.
+[2023.03.10-20.57.09:958][843]LogDerivedDataCache: C:/Users/nehal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:49.438 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.10-20.57.10:618][883]LogSlate: Window 'SM_FloorPanel_B' being destroyed
+[2023.03.10-20.57.10:648][883]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-20.57.10:648][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-20.57.23:427][634]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Floor_Sec_C_2.SM_Hall_Floor_Sec_C_2
+[2023.03.10-20.57.23:444][634]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Floor_Sec_C_2) ...
+[2023.03.10-20.57.23:503][634]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-20.57.23:688][634]LogViewport: Scene viewport resized to 1013x848, mode Windowed.
+[2023.03.10-20.57.26:375][790]LogSlate: Window 'SM_Hall_Floor_Sec_C_2' being destroyed
+[2023.03.10-20.57.26:400][790]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-20.57.26:400][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-20.57.49:229][143]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterBundle/NatureMaterials_Ice/Meshes/SM_IcePlane.SM_IcePlane
+[2023.03.10-20.57.49:246][143]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterBundle/NatureMaterials_Ice/Meshes/SM_IcePlane) ...
+[2023.03.10-20.57.49:293][143]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-20.57.49:459][143]LogViewport: Scene viewport resized to 1013x848, mode Windowed.
+[2023.03.10-20.57.52:817][340]LogSlate: Window 'SM_IcePlane' being destroyed
+[2023.03.10-20.57.52:844][340]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-20.57.52:844][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-20.58.06:188][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.03.10-20.58.07:259][138]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Level/Space_Station.Space_Station
+[2023.03.10-20.58.07:259][138]Cmd: MAP LOAD FILE="D:/Level Design/SpaceStation/Content/FirstPerson/Level/Space_Station.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.10-20.58.07:259][138]LightingResults: New page: Lighting Build
+[2023.03.10-20.58.07:259][138]LoadErrors: New page: Loading map: Space_Station.umap
+[2023.03.10-20.58.07:261][138]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-20.58.07:261][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-20.58.07:264][138]MapCheck: New page: Map Check
+[2023.03.10-20.58.07:264][138]LightingResults: New page: Lighting Build
+[2023.03.10-20.58.07:270][138]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.10-20.58.07:275][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.03.10-20.58.07:276][138]LogShaderCompilers: Display: ================================================
+[2023.03.10-20.58.07:276][138]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.10-20.58.07:276][138]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.03.10-20.58.07:276][138]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.03.10-20.58.07:276][138]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2023.03.10-20.58.07:276][138]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.10-20.58.07:276][138]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.03.10-20.58.07:276][138]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.03.10-20.58.07:276][138]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.03.10-20.58.07:276][138]LogShaderCompilers: Display: ================================================
+[2023.03.10-20.58.07:293][138]LogStaticMesh: Display: Waiting for static meshes to be ready 2/23 (/Game/FirstPerson/Level/_GENERATED/nehal/Sphere_416CDB4B) ...
+[2023.03.10-20.58.07:323][138]LogWorld: UWorld::CleanupWorld for Space_Station, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-20.58.07:323][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-20.58.07:331][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.03.10-20.58.07:338][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.03.10-20.58.07:351][138]LogAudio: Display: Audio Device (ID: 1) registered with world 'Space_Station'.
+[2023.03.10-20.58.07:351][138]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.10-20.58.07:351][138]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-20.58.07:351][138]LogAIModule: Creating AISystem for world Space_Station
+[2023.03.10-20.58.07:359][138]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.10-20.58.07:367][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.10-20.58.07:371][138]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.10-20.58.07:371][138]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.059ms to complete.
+[2023.03.10-20.58.07:371][138]LogFileHelpers: Loading map 'Space_Station' took 0.112
+[2023.03.10-20.58.21:582][954]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.10-20.58.21:589][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.10-20.58.21:589][954]PIE: New page: PIE session: Space_Station (Mar 10, 2023, 8:58:21 AM)
+[2023.03.10-20.58.21:593][954]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.03.10-20.58.21:593][954]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.03.10-20.58.21:593][954]LogPlayLevel: Creating play world package: /Game/FirstPerson/Level/UEDPIE_0_Space_Station
+[2023.03.10-20.58.21:611][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017647s)
+[2023.03.10-20.58.21:611][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Level/Space_Station.Space_Station to /Game/FirstPerson/Level/UEDPIE_0_Space_Station.Space_Station (0.017945s)
+[2023.03.10-20.58.21:611][954]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.10-20.58.21:611][954]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-20.58.21:612][954]LogAIModule: Creating AISystem for world Space_Station
+[2023.03.10-20.58.21:612][954]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2023.03.10-20.58.21:618][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.03.10-20.58.21:618][954]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.03.10-20.58.21:619][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.10-20.58.21:619][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.10-20.58.21:619][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.10-20.58.21:619][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.10-20.58.21:619][954]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.10-20.58.21:619][954]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.10-20.58.21:619][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.10-20.58.21:619][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.10-20.58.21:619][954]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.10-20.58.21:619][954]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.10-20.58.21:619][954]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.10-20.58.21:620][954]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.10-20.58.21:639][954]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.10-20.58.21:640][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.10-20.58.21:640][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.10-20.58.21:640][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.10-20.58.21:640][954]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.03.10-20.58.21:640][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.03.10-20.58.21:641][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.03.10-20.58.21:641][954]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.03.10-20.58.21:641][954]LogInit: FAudioDevice initialized.
+[2023.03.10-20.58.21:641][954]LogAudio: Display: Audio Device (ID: 2) registered with world 'Space_Station'.
+[2023.03.10-20.58.21:649][954]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.10-20.58.21:655][954]LogWorld: Bringing World /Game/FirstPerson/Level/UEDPIE_0_Space_Station.Space_Station up for play (max tick rate 60) at 2023.03.10-14.58.21
+[2023.03.10-20.58.21:655][954]LogWorld: Bringing up level for play took: 0.005670
+[2023.03.10-20.58.21:657][954]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.03.10-20.58.21:672][954]PIE: Server logged in
+[2023.03.10-20.58.21:673][954]PIE: Play in editor total start time 0.085 seconds.
+[2023.03.10-20.58.24:926][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.10-20.58.24:926][140]LogWorld: BeginTearingDown for /Game/FirstPerson/Level/UEDPIE_0_Space_Station
+[2023.03.10-20.58.24:926][140]LogWorld: UWorld::CleanupWorld for Space_Station, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-20.58.24:927][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-20.58.24:936][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.10-20.58.24:938][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-20.58.24:943][140]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.10-20.58.24:943][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.03.10-20.58.24:945][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.03.10-20.58.24:948][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.10-20.58.24:950][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.03.10-20.58.24:985][142]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.03.10-20.58.47:404][483]Cmd: TRANSACTION UNDO
+[2023.03.10-20.58.47:404][483]LogEditorTransaction: Undo Edit Intensity
+[2023.03.10-20.59.09:180][773]Cmd: TRANSACTION UNDO
+[2023.03.10-20.59.09:180][773]LogEditorTransaction: Undo Edit Ground Radius
+[2023.03.10-20.59.24:785][698]Cmd: TRANSACTION UNDO
+[2023.03.10-20.59.24:785][698]LogEditorTransaction: Undo Edit Atmosphere Height
+[2023.03.10-20.59.45:870][959]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.10-21.00.37:682][475]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.10-21.00.37:685][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.10-21.00.37:685][475]PIE: New page: PIE session: Space_Station (Mar 10, 2023, 9:00:37 AM)
+[2023.03.10-21.00.37:685][475]LogPlayLevel: Creating play world package: /Game/FirstPerson/Level/UEDPIE_0_Space_Station
+[2023.03.10-21.00.37:702][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017173s)
+[2023.03.10-21.00.37:702][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Level/Space_Station.Space_Station to /Game/FirstPerson/Level/UEDPIE_0_Space_Station.Space_Station (0.017229s)
+[2023.03.10-21.00.37:702][475]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.10-21.00.37:703][475]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-21.00.37:703][475]LogAIModule: Creating AISystem for world Space_Station
+[2023.03.10-21.00.37:703][475]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2023.03.10-21.00.37:710][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.03.10-21.00.37:712][475]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.03.10-21.00.37:712][475]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.10-21.00.37:712][475]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.10-21.00.37:712][475]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.10-21.00.37:712][475]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.10-21.00.37:712][475]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.10-21.00.37:712][475]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.10-21.00.37:712][475]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.10-21.00.37:712][475]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.10-21.00.37:712][475]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.10-21.00.37:712][475]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.10-21.00.37:712][475]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.10-21.00.37:715][475]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.10-21.00.37:733][475]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.10-21.00.37:733][475]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.10-21.00.37:733][475]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.10-21.00.37:733][475]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.10-21.00.37:733][475]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.03.10-21.00.37:733][475]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.03.10-21.00.37:734][475]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.03.10-21.00.37:734][475]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.03.10-21.00.37:734][475]LogInit: FAudioDevice initialized.
+[2023.03.10-21.00.37:734][475]LogAudio: Display: Audio Device (ID: 3) registered with world 'Space_Station'.
+[2023.03.10-21.00.37:745][475]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.10-21.00.37:750][475]LogWorld: Bringing World /Game/FirstPerson/Level/UEDPIE_0_Space_Station.Space_Station up for play (max tick rate 60) at 2023.03.10-15.00.37
+[2023.03.10-21.00.37:751][475]LogWorld: Bringing up level for play took: 0.005531
+[2023.03.10-21.00.37:752][475]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.03.10-21.00.37:754][475]PIE: Server logged in
+[2023.03.10-21.00.37:754][475]PIE: Play in editor total start time 0.069 seconds.
+[2023.03.10-21.00.48:594][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.10-21.00.48:594][119]LogWorld: BeginTearingDown for /Game/FirstPerson/Level/UEDPIE_0_Space_Station
+[2023.03.10-21.00.48:595][119]LogWorld: UWorld::CleanupWorld for Space_Station, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-21.00.48:595][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-21.00.48:607][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.10-21.00.48:609][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-21.00.48:614][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.10-21.00.48:614][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.03.10-21.00.48:615][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.03.10-21.00.48:621][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.03.10-21.00.48:698][122]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.03.10-21.01.28:519][473]LogStaticMesh: Display: Building static mesh SM_Pipe_FloorB_2...
+[2023.03.10-21.01.28:519][473]LogStaticMesh: Display: Building static mesh SM_Pipe_FloorB_1...
+[2023.03.10-21.01.28:519][473]LogStaticMesh: Built static mesh [0.00s] /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_2.SM_Pipe_FloorB_2
+[2023.03.10-21.01.28:519][473]LogStaticMesh: Built static mesh [0.00s] /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_1.SM_Pipe_FloorB_1
+[2023.03.10-21.01.28:738][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A.SM_FloorBuffer_A
+[2023.03.10-21.01.28:738][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A.SM_FloorBuffer_A
+[2023.03.10-21.01.28:738][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A.SM_FloorBuffer_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_6
+[2023.03.10-21.01.28:739][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A_2.SM_FloorBuffer_A_2
+[2023.03.10-21.01.28:739][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A_2.SM_FloorBuffer_A_2
+[2023.03.10-21.01.28:739][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A_2.SM_FloorBuffer_A_2 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_7
+[2023.03.10-21.01.28:739][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B.SM_FloorBuffer_B
+[2023.03.10-21.01.28:739][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B.SM_FloorBuffer_B
+[2023.03.10-21.01.28:739][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B.SM_FloorBuffer_B as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_9
+[2023.03.10-21.01.28:739][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B_2.SM_FloorBuffer_B_2
+[2023.03.10-21.01.28:739][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B_2.SM_FloorBuffer_B_2
+[2023.03.10-21.01.28:740][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B_2.SM_FloorBuffer_B_2 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_11
+[2023.03.10-21.01.28:740][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C.SM_FloorBuffer_C
+[2023.03.10-21.01.28:740][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C.SM_FloorBuffer_C
+[2023.03.10-21.01.28:740][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C.SM_FloorBuffer_C as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_12
+[2023.03.10-21.01.28:740][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C_2.SM_FloorBuffer_C_2
+[2023.03.10-21.01.28:740][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C_2.SM_FloorBuffer_C_2
+[2023.03.10-21.01.28:740][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C_2.SM_FloorBuffer_C_2 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_13
+[2023.03.10-21.01.28:740][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A.SM_FloorPanel_A
+[2023.03.10-21.01.28:740][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A.SM_FloorPanel_A
+[2023.03.10-21.01.28:740][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A.SM_FloorPanel_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_14
+[2023.03.10-21.01.28:741][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A_2.SM_FloorPanel_A_2
+[2023.03.10-21.01.28:741][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A_2.SM_FloorPanel_A_2
+[2023.03.10-21.01.28:741][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A_2.SM_FloorPanel_A_2 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_15
+[2023.03.10-21.01.28:741][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_B.SM_FloorPanel_B
+[2023.03.10-21.01.28:741][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_B.SM_FloorPanel_B
+[2023.03.10-21.01.28:741][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_B.SM_FloorPanel_B as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_16
+[2023.03.10-21.01.28:741][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_C.SM_FloorPanel_C
+[2023.03.10-21.01.28:741][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_C.SM_FloorPanel_C
+[2023.03.10-21.01.28:741][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_C.SM_FloorPanel_C as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_20
+[2023.03.10-21.01.28:742][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_D.SM_FloorPanel_D
+[2023.03.10-21.01.28:742][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_D.SM_FloorPanel_D
+[2023.03.10-21.01.28:742][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_D.SM_FloorPanel_D as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_26
+[2023.03.10-21.01.28:742][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_1.SM_Pipe_FloorB_1
+[2023.03.10-21.01.28:742][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_1.SM_Pipe_FloorB_1
+[2023.03.10-21.01.28:742][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_1.SM_Pipe_FloorB_1 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_28
+[2023.03.10-21.01.28:742][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_2.SM_Pipe_FloorB_2
+[2023.03.10-21.01.28:742][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_2.SM_Pipe_FloorB_2
+[2023.03.10-21.01.28:742][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_2.SM_Pipe_FloorB_2 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_29
+[2023.03.10-21.01.28:742][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_A.SM_Win_Floor_A
+[2023.03.10-21.01.28:742][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_A.SM_Win_Floor_A
+[2023.03.10-21.01.28:743][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_A.SM_Win_Floor_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_30
+[2023.03.10-21.01.28:743][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_B.SM_Win_Floor_B
+[2023.03.10-21.01.28:743][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_B.SM_Win_Floor_B
+[2023.03.10-21.01.28:743][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_B.SM_Win_Floor_B as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_31
+[2023.03.10-21.01.28:744][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorBuffer_A.SM_Win_FloorBuffer_A
+[2023.03.10-21.01.28:744][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorBuffer_A.SM_Win_FloorBuffer_A
+[2023.03.10-21.01.28:744][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorBuffer_A.SM_Win_FloorBuffer_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_32
+[2023.03.10-21.01.28:744][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_A.SM_Win_FloorEdge_A
+[2023.03.10-21.01.28:744][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_A.SM_Win_FloorEdge_A
+[2023.03.10-21.01.28:744][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_A.SM_Win_FloorEdge_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_33
+[2023.03.10-21.01.28:744][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_B.SM_Win_FloorEdge_B
+[2023.03.10-21.01.28:744][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_B.SM_Win_FloorEdge_B
+[2023.03.10-21.01.28:744][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_B.SM_Win_FloorEdge_B as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_34
+[2023.03.10-21.01.28:744][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_C.SM_Win_FloorEdge_C
+[2023.03.10-21.01.28:744][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_C.SM_Win_FloorEdge_C
+[2023.03.10-21.01.28:745][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_C.SM_Win_FloorEdge_C as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_35
+[2023.03.10-21.01.30:645][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A.SM_FloorBuffer_A
+[2023.03.10-21.01.30:645][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A.SM_FloorBuffer_A
+[2023.03.10-21.01.30:647][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A.SM_FloorBuffer_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_36
+[2023.03.10-21.01.30:672][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A_2.SM_FloorBuffer_A_2
+[2023.03.10-21.01.30:672][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A_2.SM_FloorBuffer_A_2
+[2023.03.10-21.01.30:672][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A_2.SM_FloorBuffer_A_2 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_37
+[2023.03.10-21.01.30:682][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B.SM_FloorBuffer_B
+[2023.03.10-21.01.30:682][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B.SM_FloorBuffer_B
+[2023.03.10-21.01.30:682][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B.SM_FloorBuffer_B as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_38
+[2023.03.10-21.01.30:692][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B_2.SM_FloorBuffer_B_2
+[2023.03.10-21.01.30:692][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B_2.SM_FloorBuffer_B_2
+[2023.03.10-21.01.30:692][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B_2.SM_FloorBuffer_B_2 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_39
+[2023.03.10-21.01.30:700][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C.SM_FloorBuffer_C
+[2023.03.10-21.01.30:700][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C.SM_FloorBuffer_C
+[2023.03.10-21.01.30:701][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C.SM_FloorBuffer_C as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_40
+[2023.03.10-21.01.30:710][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C_2.SM_FloorBuffer_C_2
+[2023.03.10-21.01.30:710][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C_2.SM_FloorBuffer_C_2
+[2023.03.10-21.01.30:710][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C_2.SM_FloorBuffer_C_2 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_41
+[2023.03.10-21.01.30:719][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A.SM_FloorPanel_A
+[2023.03.10-21.01.30:719][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A.SM_FloorPanel_A
+[2023.03.10-21.01.30:720][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A.SM_FloorPanel_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_42
+[2023.03.10-21.01.30:730][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A_2.SM_FloorPanel_A_2
+[2023.03.10-21.01.30:730][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A_2.SM_FloorPanel_A_2
+[2023.03.10-21.01.30:730][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A_2.SM_FloorPanel_A_2 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_43
+[2023.03.10-21.01.30:739][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_B.SM_FloorPanel_B
+[2023.03.10-21.01.30:739][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_B.SM_FloorPanel_B
+[2023.03.10-21.01.30:740][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_B.SM_FloorPanel_B as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_44
+[2023.03.10-21.01.30:750][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_C.SM_FloorPanel_C
+[2023.03.10-21.01.30:750][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_C.SM_FloorPanel_C
+[2023.03.10-21.01.30:750][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_C.SM_FloorPanel_C as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_45
+[2023.03.10-21.01.30:759][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_D.SM_FloorPanel_D
+[2023.03.10-21.01.30:759][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_D.SM_FloorPanel_D
+[2023.03.10-21.01.30:759][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_D.SM_FloorPanel_D as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_46
+[2023.03.10-21.01.30:769][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_1.SM_Pipe_FloorB_1
+[2023.03.10-21.01.30:769][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_1.SM_Pipe_FloorB_1
+[2023.03.10-21.01.30:770][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_1.SM_Pipe_FloorB_1 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_47
+[2023.03.10-21.01.30:780][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_2.SM_Pipe_FloorB_2
+[2023.03.10-21.01.30:780][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_2.SM_Pipe_FloorB_2
+[2023.03.10-21.01.30:781][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_2.SM_Pipe_FloorB_2 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_48
+[2023.03.10-21.01.30:789][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_A.SM_Win_Floor_A
+[2023.03.10-21.01.30:789][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_A.SM_Win_Floor_A
+[2023.03.10-21.01.30:790][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_A.SM_Win_Floor_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_67
+[2023.03.10-21.01.30:800][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_B.SM_Win_Floor_B
+[2023.03.10-21.01.30:800][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_B.SM_Win_Floor_B
+[2023.03.10-21.01.30:801][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_B.SM_Win_Floor_B as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_68
+[2023.03.10-21.01.30:810][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorBuffer_A.SM_Win_FloorBuffer_A
+[2023.03.10-21.01.30:810][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorBuffer_A.SM_Win_FloorBuffer_A
+[2023.03.10-21.01.30:810][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorBuffer_A.SM_Win_FloorBuffer_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_69
+[2023.03.10-21.01.30:819][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_A.SM_Win_FloorEdge_A
+[2023.03.10-21.01.30:819][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_A.SM_Win_FloorEdge_A
+[2023.03.10-21.01.30:819][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_A.SM_Win_FloorEdge_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_70
+[2023.03.10-21.01.30:829][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_B.SM_Win_FloorEdge_B
+[2023.03.10-21.01.30:829][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_B.SM_Win_FloorEdge_B
+[2023.03.10-21.01.30:830][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_B.SM_Win_FloorEdge_B as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_71
+[2023.03.10-21.01.30:839][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_C.SM_Win_FloorEdge_C
+[2023.03.10-21.01.30:839][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_C.SM_Win_FloorEdge_C
+[2023.03.10-21.01.30:839][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_C.SM_Win_FloorEdge_C as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_72
+[2023.03.10-21.01.50:220][709]Cmd: TRANSACTION UNDO
+[2023.03.10-21.01.50:220][709]LogEditorTransaction: Undo Move Elements
+[2023.03.10-21.01.50:463][719]Cmd: TRANSACTION UNDO
+[2023.03.10-21.01.50:463][719]LogEditorTransaction: Undo Move Elements
+[2023.03.10-21.01.50:639][726]Cmd: TRANSACTION UNDO
+[2023.03.10-21.01.50:639][726]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.10-21.01.50:806][733]Cmd: TRANSACTION UNDO
+[2023.03.10-21.01.50:806][733]LogEditorTransaction: Undo Move Elements
+[2023.03.10-21.01.50:961][742]Cmd: TRANSACTION UNDO
+[2023.03.10-21.01.50:961][742]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.10-21.01.51:167][754]Cmd: TRANSACTION UNDO
+[2023.03.10-21.01.51:167][754]LogEditorTransaction: Undo Move Elements
+[2023.03.10-21.01.51:342][764]Cmd: TRANSACTION UNDO
+[2023.03.10-21.01.51:342][764]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.10-21.01.51:527][775]Cmd: TRANSACTION UNDO
+[2023.03.10-21.01.51:527][775]LogEditorTransaction: Undo Move Elements
+[2023.03.10-21.01.51:732][787]Cmd: TRANSACTION UNDO
+[2023.03.10-21.01.51:732][787]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.10-21.01.51:934][799]Cmd: TRANSACTION UNDO
+[2023.03.10-21.01.51:934][799]LogEditorTransaction: Undo Move Elements
+[2023.03.10-21.01.52:190][814]Cmd: TRANSACTION UNDO
+[2023.03.10-21.01.52:190][814]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.10-21.01.52:547][834]Cmd: TRANSACTION UNDO
+[2023.03.10-21.01.52:547][834]LogEditorTransaction: Undo Create Actors
+[2023.03.10-21.01.58:284][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A.SM_FloorBuffer_A
+[2023.03.10-21.01.58:284][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A.SM_FloorBuffer_A
+[2023.03.10-21.01.58:285][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A.SM_FloorBuffer_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_73
+[2023.03.10-21.01.58:285][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A_2.SM_FloorBuffer_A_2
+[2023.03.10-21.01.58:285][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A_2.SM_FloorBuffer_A_2
+[2023.03.10-21.01.58:285][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A_2.SM_FloorBuffer_A_2 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_74
+[2023.03.10-21.01.58:285][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B.SM_FloorBuffer_B
+[2023.03.10-21.01.58:285][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B.SM_FloorBuffer_B
+[2023.03.10-21.01.58:285][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B.SM_FloorBuffer_B as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_76
+[2023.03.10-21.01.58:286][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B_2.SM_FloorBuffer_B_2
+[2023.03.10-21.01.58:286][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B_2.SM_FloorBuffer_B_2
+[2023.03.10-21.01.58:286][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B_2.SM_FloorBuffer_B_2 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_77
+[2023.03.10-21.01.58:286][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C.SM_FloorBuffer_C
+[2023.03.10-21.01.58:286][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C.SM_FloorBuffer_C
+[2023.03.10-21.01.58:286][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C.SM_FloorBuffer_C as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_78
+[2023.03.10-21.01.58:286][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C_2.SM_FloorBuffer_C_2
+[2023.03.10-21.01.58:286][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C_2.SM_FloorBuffer_C_2
+[2023.03.10-21.01.58:286][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C_2.SM_FloorBuffer_C_2 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_79
+[2023.03.10-21.01.58:287][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A.SM_FloorPanel_A
+[2023.03.10-21.01.58:287][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A.SM_FloorPanel_A
+[2023.03.10-21.01.58:287][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A.SM_FloorPanel_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_80
+[2023.03.10-21.01.58:287][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A_2.SM_FloorPanel_A_2
+[2023.03.10-21.01.58:287][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A_2.SM_FloorPanel_A_2
+[2023.03.10-21.01.58:287][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A_2.SM_FloorPanel_A_2 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_81
+[2023.03.10-21.01.58:287][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_B.SM_FloorPanel_B
+[2023.03.10-21.01.58:287][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_B.SM_FloorPanel_B
+[2023.03.10-21.01.58:287][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_B.SM_FloorPanel_B as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_82
+[2023.03.10-21.01.58:288][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_C.SM_FloorPanel_C
+[2023.03.10-21.01.58:288][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_C.SM_FloorPanel_C
+[2023.03.10-21.01.58:288][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_C.SM_FloorPanel_C as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_84
+[2023.03.10-21.01.58:288][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_D.SM_FloorPanel_D
+[2023.03.10-21.01.58:288][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_D.SM_FloorPanel_D
+[2023.03.10-21.01.58:288][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_D.SM_FloorPanel_D as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_104
+[2023.03.10-21.01.58:288][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_1.SM_Pipe_FloorB_1
+[2023.03.10-21.01.58:288][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_1.SM_Pipe_FloorB_1
+[2023.03.10-21.01.58:288][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_1.SM_Pipe_FloorB_1 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_105
+[2023.03.10-21.01.58:288][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_2.SM_Pipe_FloorB_2
+[2023.03.10-21.01.58:288][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_2.SM_Pipe_FloorB_2
+[2023.03.10-21.01.58:289][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_2.SM_Pipe_FloorB_2 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_106
+[2023.03.10-21.01.58:289][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_A.SM_Win_Floor_A
+[2023.03.10-21.01.58:289][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_A.SM_Win_Floor_A
+[2023.03.10-21.01.58:289][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_A.SM_Win_Floor_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_107
+[2023.03.10-21.01.58:289][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_B.SM_Win_Floor_B
+[2023.03.10-21.01.58:289][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_B.SM_Win_Floor_B
+[2023.03.10-21.01.58:289][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_B.SM_Win_Floor_B as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_108
+[2023.03.10-21.01.58:289][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorBuffer_A.SM_Win_FloorBuffer_A
+[2023.03.10-21.01.58:289][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorBuffer_A.SM_Win_FloorBuffer_A
+[2023.03.10-21.01.58:289][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorBuffer_A.SM_Win_FloorBuffer_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_109
+[2023.03.10-21.01.58:290][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_A.SM_Win_FloorEdge_A
+[2023.03.10-21.01.58:290][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_A.SM_Win_FloorEdge_A
+[2023.03.10-21.01.58:290][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_A.SM_Win_FloorEdge_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_110
+[2023.03.10-21.01.58:290][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_B.SM_Win_FloorEdge_B
+[2023.03.10-21.01.58:290][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_B.SM_Win_FloorEdge_B
+[2023.03.10-21.01.58:290][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_B.SM_Win_FloorEdge_B as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_114
+[2023.03.10-21.01.58:290][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_C.SM_Win_FloorEdge_C
+[2023.03.10-21.01.58:290][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_C.SM_Win_FloorEdge_C
+[2023.03.10-21.01.58:290][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_C.SM_Win_FloorEdge_C as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_115
+[2023.03.10-21.01.59:396][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A.SM_FloorBuffer_A
+[2023.03.10-21.01.59:396][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A.SM_FloorBuffer_A
+[2023.03.10-21.01.59:398][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A.SM_FloorBuffer_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_116
+[2023.03.10-21.01.59:411][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A_2.SM_FloorBuffer_A_2
+[2023.03.10-21.01.59:411][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A_2.SM_FloorBuffer_A_2
+[2023.03.10-21.01.59:411][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A_2.SM_FloorBuffer_A_2 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_117
+[2023.03.10-21.01.59:420][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B.SM_FloorBuffer_B
+[2023.03.10-21.01.59:420][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B.SM_FloorBuffer_B
+[2023.03.10-21.01.59:420][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B.SM_FloorBuffer_B as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_118
+[2023.03.10-21.01.59:432][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B_2.SM_FloorBuffer_B_2
+[2023.03.10-21.01.59:432][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B_2.SM_FloorBuffer_B_2
+[2023.03.10-21.01.59:432][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B_2.SM_FloorBuffer_B_2 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_119
+[2023.03.10-21.01.59:442][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C.SM_FloorBuffer_C
+[2023.03.10-21.01.59:442][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C.SM_FloorBuffer_C
+[2023.03.10-21.01.59:442][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C.SM_FloorBuffer_C as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_120
+[2023.03.10-21.01.59:451][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C_2.SM_FloorBuffer_C_2
+[2023.03.10-21.01.59:451][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C_2.SM_FloorBuffer_C_2
+[2023.03.10-21.01.59:452][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_C_2.SM_FloorBuffer_C_2 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_121
+[2023.03.10-21.01.59:460][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A.SM_FloorPanel_A
+[2023.03.10-21.01.59:460][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A.SM_FloorPanel_A
+[2023.03.10-21.01.59:460][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A.SM_FloorPanel_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_122
+[2023.03.10-21.01.59:470][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A_2.SM_FloorPanel_A_2
+[2023.03.10-21.01.59:470][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A_2.SM_FloorPanel_A_2
+[2023.03.10-21.01.59:470][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A_2.SM_FloorPanel_A_2 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_123
+[2023.03.10-21.01.59:488][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_B.SM_FloorPanel_B
+[2023.03.10-21.01.59:488][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_B.SM_FloorPanel_B
+[2023.03.10-21.01.59:488][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_B.SM_FloorPanel_B as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_124
+[2023.03.10-21.01.59:499][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_C.SM_FloorPanel_C
+[2023.03.10-21.01.59:499][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_C.SM_FloorPanel_C
+[2023.03.10-21.01.59:499][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_C.SM_FloorPanel_C as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_125
+[2023.03.10-21.01.59:509][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_D.SM_FloorPanel_D
+[2023.03.10-21.01.59:509][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_D.SM_FloorPanel_D
+[2023.03.10-21.01.59:509][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_D.SM_FloorPanel_D as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_127
+[2023.03.10-21.01.59:521][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_1.SM_Pipe_FloorB_1
+[2023.03.10-21.01.59:521][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_1.SM_Pipe_FloorB_1
+[2023.03.10-21.01.59:521][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_1.SM_Pipe_FloorB_1 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_132
+[2023.03.10-21.01.59:531][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_2.SM_Pipe_FloorB_2
+[2023.03.10-21.01.59:531][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_2.SM_Pipe_FloorB_2
+[2023.03.10-21.01.59:531][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_FloorB_2.SM_Pipe_FloorB_2 as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_133
+[2023.03.10-21.01.59:542][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_A.SM_Win_Floor_A
+[2023.03.10-21.01.59:542][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_A.SM_Win_Floor_A
+[2023.03.10-21.01.59:543][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_A.SM_Win_Floor_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_140
+[2023.03.10-21.01.59:554][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_B.SM_Win_Floor_B
+[2023.03.10-21.01.59:554][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_B.SM_Win_Floor_B
+[2023.03.10-21.01.59:554][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_B.SM_Win_Floor_B as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_141
+[2023.03.10-21.01.59:565][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorBuffer_A.SM_Win_FloorBuffer_A
+[2023.03.10-21.01.59:565][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorBuffer_A.SM_Win_FloorBuffer_A
+[2023.03.10-21.01.59:566][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorBuffer_A.SM_Win_FloorBuffer_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_146
+[2023.03.10-21.01.59:577][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_A.SM_Win_FloorEdge_A
+[2023.03.10-21.01.59:577][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_A.SM_Win_FloorEdge_A
+[2023.03.10-21.01.59:578][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_A.SM_Win_FloorEdge_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_147
+[2023.03.10-21.01.59:589][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_B.SM_Win_FloorEdge_B
+[2023.03.10-21.01.59:589][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_B.SM_Win_FloorEdge_B
+[2023.03.10-21.01.59:589][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_B.SM_Win_FloorEdge_B as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_148
+[2023.03.10-21.01.59:602][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_C.SM_Win_FloorEdge_C
+[2023.03.10-21.01.59:602][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_C.SM_Win_FloorEdge_C
+[2023.03.10-21.01.59:602][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_C.SM_Win_FloorEdge_C as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_149
+[2023.03.10-21.02.30:205][ 15]Cmd: TRANSACTION UNDO
+[2023.03.10-21.02.30:205][ 15]LogEditorTransaction: Undo Move Elements
+[2023.03.10-21.02.39:704][572]Cmd: TRANSACTION UNDO
+[2023.03.10-21.02.39:704][572]LogEditorTransaction: Undo Move Elements
+[2023.03.10-21.02.59:261][728]Cmd: TRANSACTION UNDO
+[2023.03.10-21.02.59:261][728]LogEditorTransaction: Undo Move Elements
+[2023.03.10-21.02.59:571][745]Cmd: TRANSACTION UNDO
+[2023.03.10-21.02.59:571][745]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.10-21.02.59:900][761]Cmd: TRANSACTION UNDO
+[2023.03.10-21.02.59:900][761]LogEditorTransaction: Undo Move Elements
+[2023.03.10-21.03.00:173][777]Cmd: TRANSACTION UNDO
+[2023.03.10-21.03.00:173][777]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.10-21.03.00:492][796]Cmd: TRANSACTION UNDO
+[2023.03.10-21.03.00:492][796]LogEditorTransaction: Undo Move Elements
+[2023.03.10-21.03.00:796][814]Cmd: TRANSACTION UNDO
+[2023.03.10-21.03.00:796][814]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.10-21.03.01:082][831]Cmd: TRANSACTION UNDO
+[2023.03.10-21.03.01:082][831]LogEditorTransaction: Undo Move Elements
+[2023.03.10-21.03.01:371][848]Cmd: TRANSACTION UNDO
+[2023.03.10-21.03.01:371][848]LogEditorTransaction: Undo Move Elements
+[2023.03.10-21.03.01:654][865]Cmd: TRANSACTION UNDO
+[2023.03.10-21.03.01:654][865]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.10-21.03.01:988][885]Cmd: TRANSACTION UNDO
+[2023.03.10-21.03.01:988][885]LogEditorTransaction: Undo Move Elements
+[2023.03.10-21.03.02:353][907]Cmd: TRANSACTION UNDO
+[2023.03.10-21.03.02:353][907]LogEditorTransaction: Undo Move Elements
+[2023.03.10-21.03.02:787][933]Cmd: TRANSACTION UNDO
+[2023.03.10-21.03.02:787][933]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.10-21.03.05:534][ 92]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.10-21.05.54:793][ 99]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.10-21.07.17:850][ 39]Cmd: PIVOT HERE
+[2023.03.10-21.07.46:548][757]LogEditorViewport: Clicking Background
+[2023.03.10-21.08.20:579][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.10-21.08.20:588][938]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.003977 seconds
+[2023.03.10-21.08.20:616][938]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Level/Space_Station_Auto1
+[2023.03.10-21.08.20:616][938]LogSavePackage: Moving 'D:/Level Design/SpaceStation/Saved/Space_Station_Auto1752B52F443F95BBDE9DF5B9BA61FEF63.tmp' to 'D:/Level Design/SpaceStation/Saved/Autosaves/Game/FirstPerson/Level/Space_Station_Auto1.umap'
+[2023.03.10-21.08.20:620][938]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Level/Space_Station' took 0.049
+[2023.03.10-21.08.20:621][938]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2023.03.10-21.08.37:820][454]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.10-21.08.48:082][ 64]Cmd: TRANSACTION UNDO
+[2023.03.10-21.08.48:082][ 64]LogEditorTransaction: Undo Move Elements
+[2023.03.10-21.09.07:648][224]LogEditorViewport: Clicking Background
+[2023.03.10-21.09.27:012][374]Cmd: PIVOT HERE
+[2023.03.10-21.09.51:358][826]LogViewport: Scene viewport resized to 935x405, mode Windowed.
+[2023.03.10-21.09.51:371][826]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.10-21.09.51:412][826]LogViewport: Scene viewport resized to 935x405, mode Windowed.
+[2023.03.10-21.09.51:452][826]LogViewport: Scene viewport resized to 935x405, mode Windowed.
+[2023.03.10-21.09.51:488][826]LogViewport: Scene viewport resized to 1648x716, mode Windowed.
+[2023.03.10-21.09.51:515][827]LogViewport: Scene viewport resized to 937x405, mode Windowed.
+[2023.03.10-21.09.51:550][828]LogViewport: Scene viewport resized to 935x405, mode Windowed.
+[2023.03.10-21.09.52:369][874]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.10-21.09.54:097][977]LogViewport: Scene viewport resized to 1311x569, mode Windowed.
+[2023.03.10-21.09.54:129][978]LogViewport: Scene viewport resized to 1645x715, mode Windowed.
+[2023.03.10-21.09.54:158][979]LogViewport: Scene viewport resized to 1798x781, mode Windowed.
+[2023.03.10-21.09.54:204][980]LogViewport: Scene viewport resized to 1874x814, mode Windowed.
+[2023.03.10-21.09.54:242][981]LogViewport: Scene viewport resized to 1876x815, mode Windowed.
+[2023.03.10-21.10.11:946][ 22]LogEditorViewport: Clicking Background
+[2023.03.10-21.11.20:835][ 87]LogEditorViewport: Clicking Background
+[2023.03.10-21.11.24:462][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.03.10-21.11.25:273][301]LogSlate: Window 'Save Content' being destroyed
+[2023.03.10-21.11.25:312][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Level/Space_Station" FILE="D:/Level Design/SpaceStation/Content/FirstPerson/Level/Space_Station.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.10-21.11.25:318][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.03.10-21.11.25:346][301]LogSavePackage: Moving output files for package: /Game/FirstPerson/Level/Space_Station
+[2023.03.10-21.11.25:347][301]LogSavePackage: Moving 'D:/Level Design/SpaceStation/Saved/Space_Station01A0F46D422F1AA0BC94D0825020FB5F.tmp' to 'D:/Level Design/SpaceStation/Content/FirstPerson/Level/Space_Station.umap'
+[2023.03.10-21.11.25:352][301]LogFileHelpers: Saving map 'Space_Station' took 0.040
+[2023.03.10-21.11.25:369][301]AssetCheck: New page: Asset Save: Space_Station
+[2023.03.10-21.11.25:369][301]LogContentValidation: Display: Validating World /Game/FirstPerson/Level/Space_Station.Space_Station
+[2023.03.10-21.13.59:135][495]LogViewport: Scene viewport resized to 1412x613, mode Windowed.
+[2023.03.10-21.13.59:162][496]LogViewport: Scene viewport resized to 1207x523, mode Windowed.
+[2023.03.10-21.13.59:245][497]LogViewport: Scene viewport resized to 950x411, mode Windowed.
+[2023.03.10-21.13.59:270][498]LogViewport: Scene viewport resized to 937x405, mode Windowed.
+[2023.03.10-21.13.59:311][499]LogViewport: Scene viewport resized to 935x405, mode Windowed.
+[2023.03.10-21.14.00:808][586]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.10-21.14.02:830][707]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.10-21.14.33:334][530]LogViewport: Scene viewport resized to 1302x565, mode Windowed.
+[2023.03.10-21.14.33:356][531]LogViewport: Scene viewport resized to 1549x672, mode Windowed.
+[2023.03.10-21.14.33:398][532]LogViewport: Scene viewport resized to 1806x785, mode Windowed.
+[2023.03.10-21.14.33:447][533]LogViewport: Scene viewport resized to 1876x815, mode Windowed.
+[2023.03.10-21.14.34:338][586]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.10-21.16.19:406][519]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_C.SM_Win_FloorEdge_C
+[2023.03.10-21.16.19:409][519]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_C.SM_Win_FloorEdge_C as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_146
+[2023.03.10-21.16.19:419][519]EditorErrors: New page: Actor Reattachment
+[2023.03.10-21.16.24:840][835]Cmd: TRANSACTION UNDO
+[2023.03.10-21.16.24:840][835]LogEditorTransaction: Undo Move Elements
+[2023.03.10-21.16.25:339][864]Cmd: TRANSACTION UNDO
+[2023.03.10-21.16.25:339][864]LogEditorTransaction: Undo Replace Actor(s)
+[2023.03.10-21.16.39:460][689]LogViewport: Scene viewport resized to 1425x618, mode Windowed.
+[2023.03.10-21.16.39:489][690]LogViewport: Scene viewport resized to 1203x522, mode Windowed.
+[2023.03.10-21.16.39:512][691]LogViewport: Scene viewport resized to 1085x470, mode Windowed.
+[2023.03.10-21.16.39:539][692]LogViewport: Scene viewport resized to 1000x433, mode Windowed.
+[2023.03.10-21.16.39:586][693]LogViewport: Scene viewport resized to 940x407, mode Windowed.
+[2023.03.10-21.16.39:638][694]LogViewport: Scene viewport resized to 935x405, mode Windowed.
+[2023.03.10-21.17.24:996][404]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.10-21.17.35:706][ 42]LogViewport: Scene viewport resized to 1310x568, mode Windowed.
+[2023.03.10-21.17.35:735][ 43]LogViewport: Scene viewport resized to 1613x700, mode Windowed.
+[2023.03.10-21.17.35:771][ 44]LogViewport: Scene viewport resized to 1811x787, mode Windowed.
+[2023.03.10-21.17.35:812][ 45]LogViewport: Scene viewport resized to 1874x814, mode Windowed.
+[2023.03.10-21.17.35:862][ 46]LogViewport: Scene viewport resized to 1876x815, mode Windowed.
+[2023.03.10-21.18.12:297][190]LogEditorViewport: Clicking Background
+[2023.03.10-21.18.45:325][120]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_C.SM_Win_FloorEdge_C
+[2023.03.10-21.18.45:328][120]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_C.SM_Win_FloorEdge_C as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_159
+[2023.03.10-21.18.45:339][120]EditorErrors: New page: Actor Reattachment
+[2023.03.10-21.18.46:642][196]Cmd: TRANSACTION UNDO
+[2023.03.10-21.18.46:642][196]LogEditorTransaction: Undo Replace Actor(s)
+[2023.03.10-21.19.01:364][ 53]LogEditorViewport: Clicking Background
+[2023.03.10-21.19.26:248][513]Cmd: TRANSACTION UNDO
+[2023.03.10-21.19.26:248][513]LogEditorTransaction: Undo Scale Elements
+[2023.03.10-21.19.45:056][621]LogEditorViewport: Clicking Background
+[2023.03.10-21.20.02:071][615]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_A.SM_Win_Floor_A
+[2023.03.10-21.20.02:103][615]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-21.20.02:309][615]LogViewport: Scene viewport resized to 1013x848, mode Windowed.
+[2023.03.10-21.20.04:459][743]LogSlate: Window 'SM_Win_Floor_A' being destroyed
+[2023.03.10-21.20.04:490][743]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-21.20.04:490][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-21.20.06:059][831]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_A.SM_Win_Floor_A
+[2023.03.10-21.20.06:059][831]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_A.SM_Win_Floor_A
+[2023.03.10-21.20.06:059][831]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_A.SM_Win_Floor_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_167
+[2023.03.10-21.20.06:948][883]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_A.SM_Win_Floor_A
+[2023.03.10-21.20.06:948][883]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_A.SM_Win_Floor_A
+[2023.03.10-21.20.06:950][883]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_A.SM_Win_Floor_A as actor: StaticMeshActor /Game/FirstPerson/Level/Space_Station.Space_Station:PersistentLevel.StaticMeshActor_168
+[2023.03.10-21.20.19:755][638]LogViewport: Scene viewport resized to 1387x602, mode Windowed.
+[2023.03.10-21.20.19:788][639]LogViewport: Scene viewport resized to 1157x502, mode Windowed.
+[2023.03.10-21.20.19:835][640]LogViewport: Scene viewport resized to 988x428, mode Windowed.
+[2023.03.10-21.20.19:861][641]LogViewport: Scene viewport resized to 950x411, mode Windowed.
+[2023.03.10-21.20.19:896][642]LogViewport: Scene viewport resized to 935x405, mode Windowed.
+[2023.03.10-21.20.20:872][700]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.10-21.20.33:894][478]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.10-21.20.34:922][539]LogViewport: Scene viewport resized to 1311x569, mode Windowed.
+[2023.03.10-21.20.34:950][540]LogViewport: Scene viewport resized to 1602x695, mode Windowed.
+[2023.03.10-21.20.34:989][541]LogViewport: Scene viewport resized to 1819x790, mode Windowed.
+[2023.03.10-21.20.35:035][542]LogViewport: Scene viewport resized to 1875x815, mode Windowed.
+[2023.03.10-21.20.35:078][543]LogViewport: Scene viewport resized to 1876x815, mode Windowed.
+[2023.03.10-21.21.01:260][ 84]Cmd: PIVOT HERE
+[2023.03.10-21.21.01:350][ 89]LogD3D12RHI: Error: pResource->Map(Subresource, pReadRange, reinterpret_cast<void**>(&pData)) failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h:1387 
+ with error DXGI_ERROR_DEVICE_REMOVED with Reason: DXGI_ERROR_DEVICE_HUNG
+
+[2023.03.10-21.21.01:368][ 90]LogRHI: Error: [Aftermath] Status: PageFault
+[2023.03.10-21.21.01:368][ 90]LogRHI: Error: [Aftermath] Failed to get Aftermath stack data
+[2023.03.10-21.21.01:368][ 90]LogRHI: Error: [Aftermath] Faulting address: 0x00000003bea28000
+[2023.03.10-21.21.01:368][ 90]LogRHI: Error: [Aftermath] Faulting resource dims: 3064 x 1696 x 1
+[2023.03.10-21.21.01:368][ 90]LogRHI: Error: [Aftermath] Faulting result size: 43974656 bytes
+[2023.03.10-21.21.01:368][ 90]LogRHI: Error: [Aftermath] Faulting resource mips: 1
+[2023.03.10-21.21.01:368][ 90]LogRHI: Error: [Aftermath] Faulting resource format: R32G8X24_TYPELESS (0x13)
+[2023.03.10-21.21.01:368][ 90]LogD3D12RHI: Error: PageFault: PageFault at VA GPUAddress "0x3BEA28000"
+[2023.03.10-21.21.01:368][ 90]LogD3D12RHI: Error: PageFault: Last completed frame ID: -1 (cached: -1) - Current frame ID: 86194
+[2023.03.10-21.21.01:368][ 90]LogD3D12RHI: Error: PageFault: Logging all resource enabled: No
+[2023.03.10-21.21.01:368][ 90]LogD3D12RHI: Error: PageFault: Found 0 active tracked resources in 16.00 MB range of page fault address
+[2023.03.10-21.21.01:368][ 90]LogD3D12RHI: Error: PageFault: Found 0 active heaps containing page fault address
+[2023.03.10-21.21.01:368][ 90]LogD3D12RHI: Error: PageFault: Found 0 released resources containing the page fault address during last 100 frames
+[2023.03.10-21.21.01:368][ 90]LogD3D12RHI: Error: [GPUBreadCrumb] Last tracked GPU operations:
+[2023.03.10-21.21.01:368][ 90]LogD3D12RHI: Error: [GPUBreadCrumb]	3D Queue 0 - Begin: Frame 86086 - Scene - PostProcessing - CompositeEditorPrimitives 1501x652 MSAA=4 - Composite 1501x652 MSAA=4
+[2023.03.10-21.21.01:377][ 90]LogD3D12RHI: Error: [GPUBreadCrumb]	Compute Queue 0 - No Data
+[2023.03.10-21.21.01:388][ 90]LogD3D12RHI: Error: [GPUBreadCrumb]	Copy Queue 0 - No Data
+[2023.03.10-21.21.01:400][ 90]LogD3D12RHI: Error: DRED: No breadcrumb head found.
+[2023.03.10-21.21.01:400][ 90]LogD3D12RHI: Error: DRED: No PageFault data.
+[2023.03.10-21.21.01:400][ 90]LogD3D12RHI: Error: Memory Info from frame ID 86191:
+[2023.03.10-21.21.01:400][ 90]LogD3D12RHI: Error: 	Budget:	7264.00 MB
+[2023.03.10-21.21.01:400][ 90]LogD3D12RHI: Error: 	Used:	3420.15 MB
+[2023.03.10-21.21.08:782][ 90]LogD3D12RHI: Error: pResource->Map(Subresource, pReadRange, reinterpret_cast<void**>(&pData)) failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h:1387 
+ with error DXGI_ERROR_DEVICE_REMOVED with Reason: DXGI_ERROR_DEVICE_HUNG
+
+[2023.03.10-21.21.08:806][ 90]LogWindows: Error: Error reentered: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12Util.cpp] [Line: 859] 
+pResource->Map(Subresource, pReadRange, reinterpret_cast<void**>(&pData)) failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h:1387 
+ with error DXGI_ERROR_DEVICE_REMOVED with Reason: DXGI_ERROR_DEVICE_HUNG
+
+
+
+
