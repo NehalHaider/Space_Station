@@ -25,7 +25,7 @@
 		<EngineModeEx>Vanilla</EngineModeEx>
 		<DeploymentName />
 		<EngineVersion>5.0.3-20979098+++UE5+Release-5.0</EngineVersion>
-		<CommandLine>&quot;D:\Level Design\SpaceStation\SpaceStation.uproject&quot;</CommandLine>
+		<CommandLine>CommandLineRemoved</CommandLine>
 		<LanguageLCID>0</LanguageLCID>
 		<AppDefaultLocale>en-US</AppDefaultLocale>
 		<BuildVersion>++UE5+Release-5.0-CL-20979098</BuildVersion>
